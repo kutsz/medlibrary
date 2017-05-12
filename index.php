@@ -88,17 +88,26 @@ function getInfoDrug($URL, $numOfpages)
 
 //*************************************
 
-//$pages = [1=>450,228,519,386,195,242,161,174,145,12,64,343,402,248,189,448,33,156,254,333,34,152,16,21,3,98];
+//$pages = [1=>450,228,519,386,195,242,161,174,145,12,64,343,402,249,189,448,33,156,254,333,34,153,16,21,3,98];
 // $pages = [4=>386,195];//D,E
 // $pages = [6=>242,161]; //F,G
-$pages = [8=>174,145]; //H,I
+//$pages = [8=>174,145]; //H,I
+// $pages = [10=>12,64]; //J,K
+// $pages = [12=>343,402]; //L,M
+// $pages = [14=>249,189]; //N,O
+// $pages = [16=>448,33]; //P,Q
+// $pages = [18=>156,254]; //R,S
+// $pages = [20=>333,34]; //T,U
+// $pages = [22=>153,16]; //V,W
+$pages = [24=>21,3,98]; //X,Y,Z
+
 $url = 'http://medlibrary.org/lib/rx/alpha_title/';
 $html = file_get_contents($url);
 $doc = phpQuery::newDocument($html);
 
 
-$count = 8;
-$numA_Z = 9;
+$count = 24;
+$numA_Z = 26;
 while ($count<=$numA_Z) {
     $url = $doc->find("#content > article > ul > li:nth-child($count) > a")->attr("href");//url
 
