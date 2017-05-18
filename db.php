@@ -105,3 +105,47 @@ function maxId_unique_drug_name()
 
         return $result->execute();
     }
+
+///////////////////////// new_medicals //////////////
+
+function maxId_new_medicals()
+{
+  $link = $link ?? open_database_connection();
+
+  $result = $link->query("SELECT MAX(id) FROM new_medicals");
+   $num = $result->fetch();
+   return $num[0];
+}
+
+
+function getDrugReference($id)
+{
+    $link = $link ?? open_database_connection();
+    $result = $link->query("SELECT drug_name,drug_reference FROM new_medicals WHERE id = '$id'");
+    $name = $result->fetch(PDO::FETCH_ASSOC);
+    return $name;
+
+}
+
+//drug_html [id, drug_name, html_description, img_reference, local_img_reference]
+
+    function insertDrugHtml($drug_name, $html_description)
+    {
+        $link = $link ?? open_database_connection();
+
+        $sql = 'INSERT INTO drug_html(drug_name, html_description)'
+            .'VALUES (:drug_name, :html_description)';
+
+        $result = $link->prepare($sql);
+        $result->bindParam(':drug_name', $drug_name, PDO::PARAM_STR);
+        $result->bindParam(':html_description', $html_description, PDO::PARAM_STR);
+
+        return $result->execute();
+    }
+
+
+function updateDrugHtml()
+{
+
+
+}

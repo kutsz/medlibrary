@@ -1,0 +1,552 @@
+1-----------------------------------------------------------
+<header><meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+<h1 itemprop="headline name">A-HYDROCORT</h1>
+<div class="byline entry-meta lightlinks">By <span itemprop="author" class="author vcard"><abbr class="fn" title="Hospira, Inc.">Hospira, Inc.</abbr></span> | Last revised: 12 May 2011<meta itemprop="datePublished" content="2011-05-12">
+</div>
+<meta itemprop="image" content="http://medlibrary.org/lib/images-rx/a-hydrocort/a-hydrocort-for-injection-usp1-figure-2-jrl-2526.jpg"></header><meta itemprop="description" content="Hospira, Inc.: When oral therapy is not feasible, and the strength, dosage form and route of administration of the drug reasonably lend the preparation to the treatment of the condition. A-Hydrocort sterile powder is indicated for intravenous or intramuscular use...">
+<p class="DocumentTitle"><strong>A-HYDROCORT- hydrocortisone sodium succinate injection, powder, lyophilized, for solution</strong><br>Hospira, Inc.<br></p>
+<div><a id="section-1"></a></div> <h2><a id="b7a70e7f-3b8a-4f55-8293-b056981ad111"></a></h2>
+<p class="First "> <span class="Bold "> <span class="Emphasis ">Hydrocortisone Sodium Succinate</span> </span> </p>
+<p> <span class="Bold "> <span class="Emphasis ">for Injection, USP</span> </span> </p>
+<p>R<sub>x</sub> only</p>
+<p> <span class="Bold "> <span class="Emphasis ">For Intravenous or Intramuscular Administration</span> </span> </p>
+<h2>DESCRIPTION<a id="dca14a04-c196-4a27-b333-19909e1ea99e"></a><a id="section-11"></a>
+</h2>
+<p class="First ">A-Hydrocort sterile powder contains hydrocortisone sodium succinate as the active ingredient. Hydrocortisone sodium succinate, is a white, or nearly white, odorless, hygroscopic, amorphous solid. It is very soluble in water and in alcohol, very slightly soluble in acetone and insoluble in chloroform. The chemical name is pregn-4-ene-3,20-dione,21-(3-carboxy-1-oxopropoxy)-11,17-dihydroxy-, monosodium salt, (11β)- and its molecular weight is 484.52.</p>
+<aside id="ab1e" style="display:none"><ins class="adsbygoogle" data-ad-client="ca-pub-3862246084592963"></ins>
+</aside><p>The structural formula is represented below:</p>
+<div class="post_image" style="width:300px"> <div class="post_image_img"> <a href="img/a-hydrocort-for-injection-usp1-figure-1-xen-1768-1-300x171.jpg"><img alt="structural formula hydrocortisone sodium succinate" src="img/a-hydrocort-for-injection-usp1-figure-1-xen-1768-1-300x171.jpg"></a> </div>
+<div class="post_image_attr"> <a href="img/a-hydrocort-for-injection-usp1-figure-1-xen-1768-1-300x171.jpg">(click image for full-size original)</a> </div>
+</div>
+<p>Hydrocortisone sodium succinate is an anti-inflammatory adrenocortical steroid. This highly water-soluble sodium succinate ester of hydrocortisone permits the immediate intravenous administration of high doses of hydrocortisone in a small volume of diluent and is particularly useful where high blood levels of hydrocortisone are required rapidly.</p>
+<p>A-Hydrocort sterile powder is available for intravenous or intramuscular administration.</p>
+<p><span class="Bold "><span class="Emphasis ">100 mg</span></span> − Vials containing hydrocortisone sodium succinate equivalent to 100 mg hydrocortisone, also 0.8 mg monobasic sodium phosphate anhydrous, 8.73 mg dibasic sodium phosphate anhydrous.</p>
+<p>When necessary, the pH was adjusted with sodium hydroxide so that the pH of the reconstituted solution is within the USP specified range of 7 to 8.</p>
+<p>For intravenous or intramuscular injection, vial should be reconstituted with Bacteriostatic Water for Injection or Bacteriostatic Sodium Chloride. </p>
+<p>For intravenous infusion, vial should be reconstituted with Bacteriostatic Water for Injection.</p>
+<h2>CLINICAL PHARMACOLOGY<a id="a9a365c4-1b09-4676-b397-2d5afeddf817"></a><a id="section-12"></a>
+</h2>
+<p class="First ">Hydrocortisone sodium succinate has the same metabolic
+and anti-inflammatory actions as hydrocortisone. When given parenterally
+and in equimolar quantities, the two compounds are equivalent in biologic
+activity. Following the intravenous injection of hydrocortisone sodium
+succinate, demonstrable effects are evident within one hour and persist
+for a variable period. Excretion of the administered dose is nearly
+complete within 12 hours. Thus, if constantly high blood levels are
+required, injections should be made every 4 to 6 hours. This preparation
+is also rapidly absorbed when administered intramuscularly and is
+excreted in a pattern similar to that observed after intravenous injection.<br></p>
+<h2>INDICATIONS AND USAGE<a id="a9343f38-94b3-4ad9-9925-b94f0897dc22"></a>
+</h2>
+<aside id="ab2e" style="display:none"><ins class="adsbygoogle" data-ad-client="ca-pub-3862246084592963"></ins>
+</aside><p class="First ">When oral therapy is not feasible, and the strength,
+dosage form and route of administration of the drug reasonably lend
+the preparation to the treatment of the condition, A-Hydrocort sterile
+powder is indicated for intravenous or intramuscular use in the following
+conditions: </p>
+<p> <span class="Bold "> <span class="Emphasis ">1. Endocrine
+Disorders</span> </span> </p>
+<ul>
+<li> <p class="First ">Primary or secondary adrenocortical insufficiency
+(hydrocortisone or cortisone is the drug of choice; synthetic analogs
+may be used in conjunction with mineralocorticoids where applicable;
+in infancy, mineralocorticoid supplementation is of particular importance)</p>
+</li> <li> <p class="First ">Acute adrenocortical insufficiency (hydrocortisone
+or cortisone is the drug of choice; mineralocorticoid supplementation
+may be necessary, particularly when synthetic analogs are used)</p>
+</li> <li> <p class="First ">Preoperatively and in the event of serious trauma
+or illness, in patients with known adrenal insufficiency or when adrenocortical
+reserve is doubtful</p>
+</li> <li> <p class="First ">Shock unresponsive to conventional therapy if adrenocortical
+insufficiency exists or is suspected</p>
+</li> <li> <p class="First ">Congenital adrenal hyperplasia</p>
+</li> <li> <p class="First ">Hypercalcemia associated with cancer</p>
+</li> <li> <p class="First ">Nonsuppurative thyroiditis</p>
+</li> </ul>
+<br><p> <span class="Bold "> <span class="Emphasis ">2. Rheumatic Disorders</span> </span> </p>
+<p>As adjunctive therapy for short-term
+administration (to tide the patient over an acute episode or exacerbation)
+in:</p>
+<ul>
+<li> <p class="First ">Post-traumatic osteoarthritis</p>
+</li> <li> <p class="First ">Synovitis of osteoarthritis</p>
+</li> <li> <p class="First ">Rheumatoid arthritis, including juvenile rheumatoid
+arthritis (selected cases may require low-dose maintenance therapy)</p>
+</li> <li> <p class="First ">Acute and subacute bursitis</p>
+</li> <li> <p class="First ">Epicondylitis</p>
+</li> <li> <p class="First ">Acute nonspecific tenosynovitis</p>
+</li> <li> <p class="First ">Acute gouty arthritis</p>
+</li> <li> <p class="First ">Psoriatic arthritis</p>
+</li> <li> <p class="First ">Ankylosing spondylitis</p>
+</li> </ul>
+<p> <span class="Bold "> <span class="Emphasis ">3. Collagen Diseases</span> </span> </p>
+<p>During an exacerbation or as maintenance
+therapy in selected cases of:</p>
+<ul>
+<li> <p class="First ">Systemic lupus erythematosus</p>
+</li> <li> <p class="First ">Systemic dermatomyositis (polymyositis)</p>
+</li> <li> <p class="First ">Acute rheumatic carditis</p>
+</li> </ul>
+<br><p> <span class="Bold "> <span class="Emphasis ">4. Dermatologic Diseases</span> </span> </p>
+<ul>
+<li> <p class="First ">Pemphigus</p>
+</li> <li> <p class="First "> Severe erythema multiforme (Stevens-Johnson syndrome)</p>
+</li> <li> <p class="First ">Exfoliative dermatitis</p>
+</li> <li> <p class="First ">Bullous dermatitis herpetiformis</p>
+</li> <li> <p class="First ">Severe seborrheic dermatitis</p>
+</li> <li> <p class="First "> Severe psoriasis</p>
+</li> <li> <p class="First ">Mycosis fungoides</p>
+</li> </ul>
+<br><p> <span class="Bold "> <span class="Emphasis ">5. Allergic States </span> </span> </p>
+<p>Control of severe or incapacitating allergic
+conditions intractable to adequate trials of conventional treatment
+in: </p>
+<ul>
+<li> <p class="First ">Bronchial asthma</p>
+</li> <li> <p class="First ">Contact dermatitis</p>
+</li> <li> <p class="First ">Atopic dermatitis</p>
+</li> <li> <p class="First ">Serum sickness</p>
+</li> <li> <p class="First ">Seasonal or perennial allergic rhinitis</p>
+</li> <li> <p class="First ">Drug hypersensitivity reactions</p>
+</li> <li> <p class="First ">Urticarial transfusion reactions</p>
+</li> <li> <p class="First ">Acute noninfectious laryngeal edema (epinephrine
+is the drug of first choice)</p>
+</li> </ul>
+<br><p> <span class="Bold "> <span class="Emphasis ">6. Ophthalmic Diseases</span> </span> </p>
+<p>Severe acute and chronic allergic and
+inflammatory processes involving the eye, such as: </p>
+<ul>
+<li> <p class="First ">Herpes zoster ophthalmicus</p>
+</li> <li> <p class="First ">Iritis, iridocyclitis</p>
+</li> <li> <p class="First "> Chorioretinitis</p>
+</li> <li> <p class="First ">Diffuse posterior uveitis and choroiditis</p>
+</li> <li> <p class="First ">Optic neuritis</p>
+</li> <li> <p class="First ">Sympathetic ophthalmia</p>
+</li> <li> <p class="First ">Anterior segment inflammation</p>
+</li> <li> <p class="First ">Allergic conjunctivitis</p>
+</li> <li> <p class="First "> Allergic corneal marginal ulcers</p>
+</li> <li> <p class="First "> Keratitis</p>
+</li> </ul>
+<br><p> <span class="Bold "> <span class="Emphasis ">7. Gastrointestinal
+Diseases</span> </span> </p>
+<p>To tide the patient
+over a critical period of the disease in:</p>
+<ul>
+<li> <p class="First ">Ulcerative colitis (systemic therapy)</p>
+</li> <li> <p class="First ">Regional enteritis (systemic therapy)</p>
+</li> </ul>
+<br><p> <span class="Bold "> <span class="Emphasis ">8. Respiratory Diseases </span> </span> </p>
+<ul>
+<li> <p class="First ">Symptomatic sarcoidosis</p>
+</li> <li> <p class="First ">Berylliosis</p>
+</li> <li> <p class="First "> Fulminating or disseminated pulmonary tuberculosis
+when used concurrently with appropriate antituberculous chemotherapy</p>
+</li> <li> <p class="First ">Loeffler’s syndrome not manageable by other
+means </p>
+</li> <li> <p class="First ">Aspiration pneumonitis</p>
+</li> </ul>
+<p> <span class="Bold "> <span class="Emphasis ">9. Hematologic Disorders</span> </span> <br></p>
+<ul>
+<li> <p class="First ">Acquired (autoimmune) hemolytic anemia</p>
+</li> <li> <p class="First ">Idiopathic thrombocytopenic purpura in adults (IV
+only; IM administration is contraindicated)</p>
+</li> <li> <p class="First ">Secondary thrombocytopenia in adults</p>
+</li> <li> <p class="First ">Erythroblastopenia (RBC anemia)</p>
+</li> <li> <p class="First ">Congenital (erythroid) hypoplastic anemia</p>
+</li> </ul>
+<p> <span class="Bold "> <span class="Emphasis ">10. Neoplastic Diseases</span> </span> </p>
+<p>For palliative management of: </p>
+<ul>
+<li> <p class="First ">Leukemias and lymphomas in adults</p>
+</li> <li> <p class="First ">Acute leukemia of childhood</p>
+</li> </ul>
+<p> <span class="Bold "> <span class="Emphasis ">11. Edematous States</span> </span> </p>
+<p>To induce diuresis or remission of proteinuria
+in the nephrotic syndrome, without uremia, of the idiopathic type
+or that due to lupus erythematosus</p>
+<p> <span class="Bold "> <span class="Emphasis ">12. Nervous System</span> </span> </p>
+<p>Acute exacerbations of multiple sclerosis</p>
+<p> <span class="Bold "> <span class="Emphasis ">13. Miscellaneous </span> </span> </p>
+<ul>
+<li> <p class="First ">Tuberculous meningitis with subarachnoid block or
+impending block when used concurrently with appropriate antituberculous
+chemotherapy</p>
+</li> <li> <p class="First "> Trichinosis with neurologic or myocardial involvement</p>
+</li> </ul>
+<footer><div class="wp-pagenavi">
+<span class="pages">Page 1 of 3</span>  <span class="current">1</span>  <a href="//medlibrary.org/lib/rx/meds/a-hydrocort/page/2/" class="page larger">2</a> <a href="//medlibrary.org/lib/rx/meds/a-hydrocort/page/3/" class="page larger">3</a> <a href="//medlibrary.org/lib/rx/meds/a-hydrocort/page/2/">»</a> </div>
+<aside id="abre" style="display:none"><ins class="adsbygoogle" data-ad-client="ca-pub-3862246084592963"></ins>
+</aside><div class="reviewnote lightlinks">
+<p>All MedLibrary.org resources are included in as near-original form as possible, meaning that the information from the original provider has been rendered here with only typographical or stylistic modifications and not with any substantive alterations of content, meaning or intent.</p>
+<p>The URL of this page is:<br><a href="http://medlibrary.org/lib/rx/meds/a-hydrocort/" rel="bookmark">http://medlibrary.org/lib/rx/meds/a-hydrocort/</a></p>
+</div>
+</footer>
+2-----------------------------------------------------------<article><header><meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+<h1 itemprop="headline name">A-HYDROCORT (Page 2 of 3)</h1>
+<div class="byline entry-meta lightlinks">By <span itemprop="author" class="author vcard"><abbr class="fn" title="Hospira, Inc.">Hospira, Inc.</abbr></span> | Last revised: 12 May 2011<meta itemprop="datePublished" content="2011-05-12">
+</div>
+<meta itemprop="image" content="http://medlibrary.org/lib/images-rx/a-hydrocort/a-hydrocort-for-injection-usp1-figure-2-jrl-2526.jpg"></header><meta itemprop="description" content="Page 2: Hospira, Inc.: When oral therapy is not feasible, and the strength, dosage form and route of administration of the drug reasonably lend the preparation to the treatment of the condition. A-Hydrocort sterile powder is indicated for intravenous or intramuscular use...">
+<h2>CONTRAINDICATIONS<a id="c1bd2fd6-2622-4e1e-9b88-561b49d6fb17"></a><a id="section-4"></a>
+</h2>
+<p class="First ">The use of A-Hydrocort sterile powder is contraindicated
+in premature infants because the 100 mg vial is reconstituted with
+Bacteriostatic Water for Injection or Bacteriostatic Sodium Chloride
+Injection containing benzyl alcohol. Benzyl alcohol has been reported
+to be associated with a fatal “Gasping Syndrome” in
+premature infants. A-Hydrocort sterile powder is also contraindicated
+in systemic fungal infections and patients with known hypersensitivity
+to the product and its constituents. </p>
+<h2>WARNINGS<a id="d5131c88-10b1-453d-bcb2-fef7d35a4f3d"></a><a id="section-6"></a>
+</h2>
+<p class="First ">In patients on corticosteroid therapy subjected to
+unusual stress, increased dosage of rapidly acting corticosteroids
+before, during, and after the stressful situation is indicated. </p>
+<aside id="ab1e" style="display:none"><ins class="adsbygoogle" data-ad-client="ca-pub-3862246084592963"></ins>
+</aside><p>Corticosteroids may mask some signs of infection, and
+new infections may appear during their use. There may be decreased
+resistance and inability to localize infection when corticosteroids
+are used. </p>
+<p>Prolonged use of corticosteroids
+may produce posterior subcapsular cataracts, glaucoma with possible
+damage to the optic nerves, and may enhance the establishment of secondary
+ocular infections due to fungi or viruses.</p>
+<p><span class="Italics "><span class="Emphasis ">Usage in pregnancy</span></span>. Since adequate human
+reproduction studies have not been done with corticosteroids, the
+use of these drugs in pregnancy, nursing mothers, or women of childbearing
+potential requires that the possible benefits of the drug be weighed
+against the potential hazards to the mother and embryo or fetus. Infants
+born of mothers who have received substantial doses of corticosteroids
+during pregnancy should be carefully observed for signs of hypoadrenalism. </p>
+<p>Average and large doses of hydrocortisone can cause elevation
+of blood pressure, salt and water retention, and increased excretion
+of potassium. These effects are less likely to occur with the synthetic
+derivatives except when used in large doses. Dietary salt restriction
+and potassium supplementation may be necessary. All corticosteroids
+increase calcium excretion. </p>
+<p> <span class="Bold "> <span class="Emphasis ">While on corticosteroid therapy patients should not
+be vaccinated against smallpox. Other immunization procedures should
+not be undertaken in patients who are on corticosteroids, especially
+on high dose, because of possible hazards of neurological complications
+and a lack of antibody response.</span> </span> </p>
+<p>The
+use of A-Hydrocort sterile powder in active tuberculosis should be
+restricted to those cases of fulminating or disseminated tuberculosis
+in which the corticosteroid is used for the management of the disease
+in conjunction with appropriate antituberculous regimen. </p>
+<p>If corticosteroids are indicated in patients with latent
+tuberculosis or tuberculin reactivity, close observation is necessary
+as reactivation of the disease may occur. During prolonged corticosteroid
+therapy, these patients should receive chemoprophylaxis. </p>
+<p>Because rare instances of anaphylactoid reactions (eg,
+bronchospasm) have occurred in patients receiving parenteral corticosteroid
+therapy, appropriate precautionary measures should be taken prior
+to administration, especially when the patient has a history of allergy
+to any drug. </p>
+<aside id="ab2e" style="display:none"><ins class="adsbygoogle" data-ad-client="ca-pub-3862246084592963"></ins>
+</aside><p>Persons who are on drugs which
+suppress the immune system are more susceptible to infections than
+healthy individuals. Chicken pox and measles, for example, can have
+a more serious or even fatal course in non-immune children or adults
+on corticosteroids. In such children or adults who have not had these
+diseases, particular care should be taken to avoid exposure. How the
+dose, route and duration of corticosteroid administration affects
+the risk of developing a disseminated infection is not known. The
+contribution of the underlying disease and/or prior corticosteroid
+treatment to the risk is also not known. If exposed to chicken pox,
+prophylaxis with varicella zoster immune globulin (VZIG) may be indicated.
+If exposed to measles, prophylaxis with pooled intramuscular immunoglobulin
+(IG) may be indicated. (See the respective package inserts for complete
+VZIG and IG prescribing information.) If chicken pox develops, treatment
+with antiviral agents may be considered. </p>
+<h2>PRECAUTIONS<a id="d4c80493-ddee-46ea-9e23-2904336c25d8"></a><a id="section-7"></a>
+</h2> <h3>General Precautions<a id="f2cd6ff6-9695-49b1-b1f7-1e9c5b9a15f0"></a><a id="section-7.1"></a>
+</h3> <p class="First ">Drug-induced secondary adrenocortical insufficiency
+may be minimized by gradual reduction of dosage. This type of relative
+insufficiency may persist for months after discontinuation of therapy;
+therefore, in any situation of stress occurring during that period,
+hormone therapy should be reinstituted. Since mineralocorticoid secretion
+may be impaired, salt and/or a mineralocorticoid should be administered
+concurrently. </p>
+<p>There is an enhanced effect of
+corticosteroids in patients with hypothyroidism and in those with
+cirrhosis.</p>
+<p>Corticosteroids should be used cautiously
+in patients with ocular herpes simplex for fear of corneal perforation. </p>
+<p>The lowest possible dose of corticosteroid should be used
+to control the condition under treatment, and when reduction in dosage
+is possible, the reduction must be gradual.</p>
+<p>Psychic derangements may appear when corticosteroids are used, ranging
+from euphoria, insomnia, mood swings, personality changes, and severe
+depression, to frank psychotic manifestations. Also, existing emotional
+instability or psychotic tendencies may be aggravated by corticosteroids.</p>
+<p>Aspirin should be used cautiously in conjunction with
+corticosteroids in hypoprothrombinemia.</p>
+<p>Steroids
+should be used with caution in nonspecific ulcerative colitis, if
+there is a probability of impending perforation, abscess or other
+pyogenic infection, also in diverticulitis, fresh intestinal anastomoses,
+active or latent peptic ulcer, renal insufficiency, hypertension,
+osteoporosis, and myasthenia gravis. </p>
+<p>Growth
+and development of infants and children on prolonged corticosteroid
+therapy should be carefully followed.</p>
+<p>Although
+controlled clinical trials have shown corticosteroids to be effective
+in speeding the resolution of acute exacerbations of multiple sclerosis,
+they do not show that corticosteroids affect the ultimate outcome
+or natural history of the disease. The studies do show that relatively
+high doses of corticosteroids are necessary to demonstrate a significant
+effect. (See <span class="Bold Italics "><span class="Emphasis ">DOSAGE AND ADMINISTRATION</span></span>).</p>
+<p>Since complications of treatment with glucocorticoids are dependent
+on the size of the dose and duration of treatment, a risk/benefit
+decision must be made in each individual case as to dose and duration
+of treatment and as to whether daily or intermittent therapy should
+be used. </p>
+<h2>DRUG INTERACTIONS<a id="a85301c5-6311-4e9b-b4cd-d9cb27256fdf"></a>
+</h2>
+<p class="First ">The pharmacokinetic interactions listed below are
+potentially clinically important. Drugs that induce hepatic enzymes
+such as phenobarbital, phenytoin and rifampin may increase the clearance
+of corticosteroids and may require increases in corticosteroid dose
+to achieve the desired response. Drugs such as troleandomycin and
+ketoconazole may inhibit the metabolism of corticosteroids and thus
+decrease their clearance. Therefore, the dose of corticosteroid should
+be titrated to avoid steroid toxicity. Corticosteroids may increase
+the clearance of chronic high-dose aspirin. This could lead to decreased
+salicylate serum levels or increase the risk of salicylate toxicity
+when corticosteroid is withdrawn. Aspirin should be used cautiously
+in conjunction with corticosteroids in patients suffering from hypoprothrombinemia.
+The effect of corticosteroids on oral anticoagulants is variable.
+There are reports of enhanced as well as diminished effects of anticoagulants
+when given concurrently with corticosteroids. Therefore, coagulation
+indices should be monitored to maintain the desired anticoagulant
+effect. </p>
+<h3>Information for the Patient<a id="d2dde88b-b5ba-4103-b4f5-0d9c8843e1b3"></a><a id="section-7.17"></a>
+</h3> <p class="First ">Persons who are on immunosuppressant doses of corticosteroids
+should be warned to avoid exposure to chicken pox or measles. Patients
+should also be advised that if they are exposed, medical advice should
+be sought without delay. </p>
+<h2>ADVERSE REACTIONS<a id="bf3a68a7-4476-4f12-a4b0-e1e5d479342d"></a>
+</h2>
+<p class="First "> <span class="Bold "> <span class="Emphasis ">Fluid and Electrolyte Disturbances </span> </span> </p>
+<p>Sodium retention, Fluid retention, Congestive
+heart failure in susceptible patients, Potassium loss, Hypokalemic
+alkalosis, Hypertension</p>
+<p> <span class="Bold "> <span class="Emphasis ">Musculoskeletal </span> </span> </p>
+<p>Muscle weakness,
+Steroid myopathy, Loss of muscle mass, Osteoporosis, Vertebral compression
+fractures, Aseptic necrosis of femoral and humeral heads, Pathologic
+fracture of long bones</p>
+<p> <span class="Bold "> <span class="Emphasis ">Gastrointestinal</span> </span> </p>
+<p>Peptic ulcer with
+possible perforation and hemorrhage, Pancreatitis, Abdominal distention,
+Ulcerative esophagitis</p>
+<p> <span class="Bold "> <span class="Emphasis ">Dermatologic </span> </span> </p>
+<p>Impaired wound healing,
+Thin fragile skin, Petechiae and ecchymoses, Facial erythema, Increased
+sweating, May suppress reactions to skin tests</p>
+<p> <span class="Bold "> <span class="Emphasis ">Neurological </span> </span> </p>
+<p>Convulsions, Increased intracranial pressure with papilledema (pseudotumor
+cerebri) usually after treatment, Vertigo, Headache</p>
+<p> <span class="Bold "> <span class="Emphasis ">Endocrine</span> </span> </p>
+<p>Menstrual irregularities, Development of Cushingoid state, Suppression
+of growth in children, Secondary adrenocortical and pituitary unresponsiveness,
+particularly in times of stress, as in trauma, surgery, or illness,
+Decreased carbohydrate tolerance, Manifestations of latent diabetes
+mellitus, Increased requirements of insulin or oral hypoglycemic agents
+in diabetics</p>
+<p> <span class="Bold "> <span class="Emphasis ">Ophthalmic </span> </span> </p>
+<p>Posterior subcapsular cataracts, Increased
+intraocular pressure, Glaucoma, Exophthalmos</p>
+<p> <span class="Bold "> <span class="Emphasis ">Metabolic</span> </span> </p>
+<p>Negative nitrogen balance due to protein catabolism </p>
+<p>The following additional reactions are related to parenteral corticosteroid
+therapy: </p>
+<p>Allergic, anaphylactic or other hypersensitivity
+reactions, Hyperpigmentation or hypopigmentation, Subcutaneous and
+cutaneous atrophy, Sterile abscess</p>
+
+<footer><div class="wp-pagenavi">
+<span class="pages">Page 2 of 3</span>  <a href="//medlibrary.org/lib/rx/meds/a-hydrocort/">«</a> <a href="//medlibrary.org/lib/rx/meds/a-hydrocort/" class="page smaller">1</a> <span class="current">2</span>  <a href="//medlibrary.org/lib/rx/meds/a-hydrocort/page/3/" class="page larger">3</a> <a href="//medlibrary.org/lib/rx/meds/a-hydrocort/page/3/">»</a> </div>
+<aside id="abre" style="display:none"><ins class="adsbygoogle" data-ad-client="ca-pub-3862246084592963"></ins>
+</aside><div class="reviewnote lightlinks">
+<p>All MedLibrary.org resources are included in as near-original form as possible, meaning that the information from the original provider has been rendered here with only typographical or stylistic modifications and not with any substantive alterations of content, meaning or intent.</p>
+<p>The URL of this page is:<br><a href="http://medlibrary.org/lib/rx/meds/a-hydrocort/page/2/" rel="bookmark">http://medlibrary.org/lib/rx/meds/a-hydrocort/page/2/</a></p>
+</div>
+</footer></article>3-----------------------------------------------------------
+<header><meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+<h1 itemprop="headline name">A-HYDROCORT (Page 3 of 3)</h1>
+<div class="byline entry-meta lightlinks">By <span itemprop="author" class="author vcard"><abbr class="fn" title="Hospira, Inc.">Hospira, Inc.</abbr></span> | Last revised: 12 May 2011<meta itemprop="datePublished" content="2011-05-12">
+</div>
+<meta itemprop="image" content="http://medlibrary.org/lib/images-rx/a-hydrocort/a-hydrocort-for-injection-usp1-figure-2-jrl-2526.jpg"></header><meta itemprop="description" content="Page 3: Hospira, Inc.: When oral therapy is not feasible, and the strength, dosage form and route of administration of the drug reasonably lend the preparation to the treatment of the condition. A-Hydrocort sterile powder is indicated for intravenous or intramuscular use...">
+<h2>DOSAGE AND ADMINISTRATION<a id="c81fd9af-85b3-40ce-9abb-30d36c6b6a16"></a><a id="section-2"></a>
+</h2>
+<p class="First ">This preparation may be administered by intravenous
+injection, by intravenous infusion, or by intramuscular injection,
+the preferred method for initial emergency use being intravenous injection.
+Following the initial emergency period, consideration should be given
+to employing a longer acting injectable preparation or an oral preparation. </p>
+<p>Therapy is initiated by administering A-Hydrocort sterile
+powder intravenously over a period of 30 seconds (eg, 100 mg) to 10
+minutes (eg, 500 mg or more). In general, high-dose corticosteroid
+therapy should be continued only until the patient’s condition
+has stabilized − usually not beyond 48 to 72 hours. Although
+adverse effects associated with high-dose, short-term corticoid therapy
+are uncommon, peptic ulceration may occur. Prophylactic antacid therapy
+may be indicated.</p>
+<aside id="ab1e" style="display:none"><ins class="adsbygoogle" data-ad-client="ca-pub-3862246084592963"></ins>
+</aside><p>When high-dose hydrocortisone
+therapy must be continued beyond 48-72 hours, hypernatremia may occur.
+Under such circumstances it may be desirable to replace hydrocortisone
+sodium succinate with a corticoid such as methylprednisolone sodium
+succinate which causes little or no sodium retention.</p>
+<p>The initial dose of A-Hydrocort sterile powder is 100 mg to 500 mg,
+depending on the severity of the condition. This dose may be repeated
+at intervals of 2, 4 or 6 hours as indicated by the patient’s
+response and clinical condition. While the dose may be reduced for
+infants and children, it is governed more by the severity of the condition
+and response of the patient than by age or body weight but should
+not be less than 25 mg daily. </p>
+<p>Patients subjected
+to severe stress following corticosteroid therapy should be observed
+closely for signs and symptoms of adrenocortical insufficiency. </p>
+<p>Corticoid therapy is an adjunct to, and not a replacement
+for, conventional therapy.</p>
+<p> <span class="Bold "> <span class="Emphasis ">Preparation of Solutions</span> </span> </p>
+<p><span class="Bold "><span class="Emphasis ">100 mg </span></span>− For intravenous
+or intramuscular injection, prepare solution by aseptically adding <span class="Bold "><span class="Emphasis ">not more than 2 mL</span></span> of Bacteriostatic Water
+for Injection or Bacteriostatic Sodium Chloride Injection to the contents
+of one vial. <span class="Bold "><span class="Emphasis ">Further dilution is not necessary
+for intravenous or intramuscular</span></span><span class="Bold "><span class="Emphasis "> injection.  For intravenous infusion,</span></span> first prepare solution
+by adding <span class="Bold "><span class="Emphasis ">not more than 2 mL</span></span> of
+Bacteriostatic Water for Injection to the vial; this solution may
+then be added to 100 to 1000 mL of the following: 5% dextrose in water
+(or isotonic saline solution or 5% dextrose in isotonic saline solution
+if patient is not on sodium restriction). In cases where administration
+of a small volume of fluid is desirable, 100 mg of hydrocortisone
+sodium succinate may be added to 50 mL of the above diluents. The
+resulting solutions are stable for at least 4 hours and may be administered
+either directly or by IV piggyback.</p>
+<p>When reconstituted
+as directed, pH’s of the solutions range from 7 to 8 and the
+tonicities are: 100 mg vial, .36 osmolar. (Isotonic saline = .28 osmolar.)</p>
+<h2>HOW SUPPLIED<a id="c00d2827-c2f3-4623-a74f-23e6d3006f43"></a><a id="section-16"></a>
+</h2>
+<aside id="ab2e" style="display:none"><ins class="adsbygoogle" data-ad-client="ca-pub-3862246084592963"></ins>
+</aside><p class="First ">A-Hydrocort sterile powder is available in the following package:</p>
+<table style="width:auto; max-width:99% !important;"><tbody class="Headless ">
+<tr class="First ">
+<td class="Botrule Lrule Rrule Toprule "> <p class="First "> <span class="Bold "> <span class="Emphasis ">NDC</span> </span> </p>
+</td> <td class="Botrule Lrule Rrule Toprule "> <p class="First "> <span class="Bold "> <span class="Emphasis ">Container </span> </span> </p>
+</td> <td class="Botrule Lrule Rrule Toprule "> <p class="First "> <span class="Bold "> <span class="Emphasis ">Concentration </span> </span> </p>
+</td> </tr>
+<tr class="Last ">
+<td class="Botrule Lrule Rrule Toprule "> <p class="First ">0409-4856-15</p>
+</td> <td class="Botrule Lrule Rrule Toprule ">Single-Dose Vial</td> <td class="Botrule Lrule Rrule Toprule "> <p class="First ">100 mg</p>
+</td> </tr>
+</tbody></table>
+<p> <span class="Bold "> <span class="Emphasis ">STORAGE CONDITIONS</span> </span> </p>
+<p>Store unreconstituted product at 20 to 25°C (68 to 77°F). [See USP Controlled Room Temperature.]</p>
+<p>Store solution at 20 to 25°C (68 to 77°F). [See USP Controlled Room Temperature.] Protect from light.</p>
+<p>Use solution only if it is clear. Unused solution should be discarded after 3 days.</p>
+<p>Lyophilized in container.</p>
+<p>Revised: April, 2008</p>
+<table style="width:auto; max-width:99% !important;"><tbody class="Headless ">
+<tr class="First ">
+<td class="Botrule Lrule Rrule Toprule "> <p class="First ">Printed in USA</p>
+</td> <td class="Botrule Lrule Rrule Toprule " colspan="2" style="text-align:center"> <p class="First ">EN-1768</p>
+</td> </tr>
+<tr class="Last ">
+<td class="Botrule Lrule Rrule Toprule " colspan="3"> <p class="First ">Hospira, Inc., Lake Forest, IL 60045 USA</p>
+</td> </tr>
+</tbody></table>
+<h2>RL-2526<a id="e632e32d-561d-483e-bff8-af8351c6ce04"></a>
+</h2>
+<div class="post_image" style="width:300px"> <div class="post_image_img"> <a href="img/a-hydrocort-for-injection-usp1-figure-2-jrl-2526-300x99.jpg"><img alt="label ndc 0409-4856-15" src="img/a-hydrocort-for-injection-usp1-figure-2-jrl-2526-300x99.jpg"></a> </div>
+<div class="post_image_attr"> <a href="img/a-hydrocort-for-injection-usp1-figure-2-jrl-2526-300x99.jpg">(click image for full-size original)</a> </div>
+</div>
+<table class="contentTablePetite" cellspacing="0" cellpadding="3" width="100%"><tbody>
+<tr>
+<td class="contentTableTitle"> <strong>A-HYDROCORT</strong> <br><span class="contentTableReg">hydrocortisone sodium succinate injection, powder, lyophilized, for solution</span> </td> </tr>
+<tr>
+<td> <table width="100%" cellpadding="5" cellspacing="0" class="formTablePetite">
+<tr>
+<td colspan="4" class="formHeadingTitle">Product Information</td> </tr>
+<tr class="formTableRowAlt">
+<td class="formLabel">Product Type</td> <td class="formItem">HUMAN PRESCRIPTION DRUG</td> <td class="formLabel">Item Code (Source)</td> <td class="formItem">NDC:0409-4856</td> </tr>
+<tr class="formTableRow">
+<td width="30%" class="formLabel">Route of Administration</td> <td class="formItem">INTRAMUSCULAR, INTRAVENOUS</td> <td width="30%" class="formLabel">DEA Schedule</td> <td class="formItem"> </td> </tr>
+</table>
+</td> </tr>
+<tr>
+<td> <table width="100%" cellpadding="3" cellspacing="0" class="formTablePetite">
+<tr>
+<td colspan="3" class="formHeadingTitle">Active Ingredient/Active Moiety</td> </tr>
+<tr>
+<td class="formTitle">Ingredient Name</td> <td class="formTitle">Basis of Strength</td> <td class="formTitle">Strength</td> </tr>
+<tr class="formTableRowAlt">
+<td class="formItem">
+<strong>HYDROCORTISONE SODIUM SUCCINATE</strong> (HYDROCORTISONE) </td> <td class="formItem">HYDROCORTISONE SODIUM SUCCINATE</td> <td class="formItem">100 mg  in 2 mL</td> </tr>
+</table>
+</td> </tr>
+<tr>
+<td> <table width="100%" cellpadding="3" cellspacing="0" class="formTablePetite">
+<tr>
+<td colspan="2" class="formHeadingTitle">Inactive Ingredients</td> </tr>
+<tr>
+<td class="formTitle">Ingredient Name</td> <td class="formTitle">Strength</td> </tr>
+<tr class="formTableRowAlt">
+<td class="formItem"> <strong>SODIUM PHOSPHATE, MONOBASIC ANHYDROUS</strong> </td> <td class="formItem">0.8 mg  in 2 mL</td> </tr>
+<tr class="formTableRow">
+<td class="formItem"> <strong>SODIUM PHOSPHATE, DIBASIC ANHYDROUS</strong> </td> <td class="formItem">8.73 mg  in 2 mL</td> </tr>
+<tr class="formTableRowAlt">
+<td class="formItem"> <strong>SODIUM HYDROXIDE</strong> </td> <td class="formItem"> </td> </tr>
+</table>
+</td> </tr>
+<tr>
+<td></td> </tr>
+<tr>
+<td> <table width="100%" cellpadding="3" cellspacing="0" class="formTablePetite">
+<tr>
+<td colspan="5" class="formHeadingTitle">Packaging</td> </tr>
+<tr>
+<td width="1" class="formTitle">#</td> <td class="formTitle">Item Code</td> <td class="formTitle">Package Description</td> <td class="formTitle">Multilevel Packaging</td> </tr>
+<tr class="formTableRowAlt">
+<td class="formItem"> <strong>1</strong> </td> <td class="formItem">NDC:0409-4856-05</td> <td class="formItem">10 VIAL, SINGLE-DOSE (10 VIAL)  in 1 CARTON</td> <td class="formItem">contains a VIAL, SINGLE-DOSE</td> </tr>
+<tr class="formTableRowAlt">
+<td class="formItem"> <strong>1</strong> </td> <td class="formItem"></td> <td class="formItem">2 mL in 1 VIAL, SINGLE-DOSE</td> <td class="formItem">This package is contained within the CARTON (0409-4856-05)</td> </tr>
+<tr class="formTableRow">
+<td class="formItem"> <strong>2</strong> </td> <td class="formItem">NDC:0409-4856-15</td> <td class="formItem">25 VIAL, SINGLE-DOSE (25 VIAL)  in 1 TRAY</td> <td class="formItem">contains a VIAL, SINGLE-DOSE</td> </tr>
+<tr class="formTableRow">
+<td class="formItem"> <strong>2</strong> </td> <td class="formItem"></td> <td class="formItem">2 mL in 1 VIAL, SINGLE-DOSE</td> <td class="formItem">This package is contained within the TRAY (0409-4856-15)</td> </tr>
+</table>
+</td> </tr>
+<tr>
+<td></td> </tr>
+<tr>
+<td class="normalizer"> <table width="100%" cellpadding="3" cellspacing="0" class="formTableMorePetite">
+<tr>
+<td colspan="4" class="formHeadingReg"> <span class="formHeadingTitle">Marketing Information</span> </td> </tr>
+<tr>
+<td class="formTitle">Marketing Category</td> <td class="formTitle">Application Number or Monograph Citation</td> <td class="formTitle">Marketing Start Date</td> <td class="formTitle">Marketing End Date</td> </tr>
+<tr class="formTableRowAlt">
+<td class="formItem">ANDA</td> <td class="formItem">ANDA040666</td> <td class="formItem">05/12/2011</td> <td class="formItem"></td> </tr>
+</table>
+</td> </tr>
+</tbody></table>
+<table width="100%" cellpadding="3" cellspacing="0" class="formTableMorePetite"><tr>
+<td colspan="4" class="formHeadingReg">
+<span class="formHeadingTitle">Labeler — </span>Hospira, Inc.
+       (141588017)
+    </td> </tr></table>
+<p><span class="EffectiveDate">Revised: 05/2011</span> <span class="DistributorName">Hospira, Inc.</span></p>
+
+<footer><div class="wp-pagenavi">
+<span class="pages">Page 3 of 3</span>  <a href="//medlibrary.org/lib/rx/meds/a-hydrocort/page/2/">«</a> <a href="//medlibrary.org/lib/rx/meds/a-hydrocort/" class="page smaller">1</a> <a href="//medlibrary.org/lib/rx/meds/a-hydrocort/page/2/" class="page smaller">2</a> <span class="current">3</span>  </div>
+<aside id="abre" style="display:none"><ins class="adsbygoogle" data-ad-client="ca-pub-3862246084592963"></ins>
+</aside><div class="reviewnote lightlinks">
+<p>All MedLibrary.org resources are included in as near-original form as possible, meaning that the information from the original provider has been rendered here with only typographical or stylistic modifications and not with any substantive alterations of content, meaning or intent.</p>
+<p>The URL of this page is:<br><a href="http://medlibrary.org/lib/rx/meds/a-hydrocort/page/3/" rel="bookmark">http://medlibrary.org/lib/rx/meds/a-hydrocort/page/3/</a></p>
+</div>
+</footer>
+4-----------------------------------------------------------

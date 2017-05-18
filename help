@@ -1,0 +1,11 @@
+#content > article
+
+
+#content > article > footer > div.wp-pagenavi
+
+#content > article > footer > div.wp-pagenavi > a:nth-child(3)
+
+
+
+#content > article > div:nth-child(4)
+#content > article > div:nth-child(5) > div.post_image_img > a > img
