@@ -48,24 +48,23 @@ function data($str)
 //**********************************************
 function getDrug($url)
 {
-  $file = file_get_contents($url);
-  $doc = phpQuery::newDocument($file);
+    $file = file_get_contents($url);
+    $doc = phpQuery::newDocument($file);
 
-  foreach ($doc->find('#content .post a') as $drug) {
-      $drug = pq($drug);
+    foreach ($doc->find('#content .post a') as $drug) {
+        $drug = pq($drug);
 
-      $drug_name = $drug->find('h1')->text();
+        $drug_name = $drug->find('h1')->text();
 
-      $url =$drug->attr("href");
-      $drug_reference = 'http:'.$url;
+        $url =$drug->attr("href");
+        $drug_reference = 'http:'.$url;
 
-      $data =$drug->find('header > div.meta')->text();
-      $last_revised = data($data);
-      $last_revised = date("Y-m-d", strtotime($last_revised));
+        $data =$drug->find('header > div.meta')->text();
+        $last_revised = data($data);
+        $last_revised = date("Y-m-d", strtotime($last_revised));
 
-      addDrud($drug_name, $drug_reference, $last_revised);
-
-  }
+        addDrud($drug_name, $drug_reference, $last_revised);
+    }
 }
 //*****************F(p.242)*****************
 // $url = 'http://medlibrary.org/lib/rx/alpha_title/f/page/242/';

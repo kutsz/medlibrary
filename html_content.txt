@@ -1,481 +1,581 @@
-1-----------------------------------------------------------
-<header><meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
-<h1 itemprop="headline name">A-HYDROCORT</h1>
-<div class="byline entry-meta lightlinks">By <span itemprop="author" class="author vcard"><abbr class="fn" title="Hospira, Inc.">Hospira, Inc.</abbr></span> | Last revised: 12 May 2011<meta itemprop="datePublished" content="2011-05-12">
+1-----------------------------------------------------------<article><header><meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+<h1 itemprop="headline name">Epitol</h1>
+<div class="byline entry-meta lightlinks">By <span itemprop="author" class="author vcard"><abbr class="fn" title="Teva Pharmaceuticals USA Inc">Teva Pharmaceuticals USA Inc</abbr></span> | Last revised: 5 October 2015<meta itemprop="datePublished" content="2015-10-05">
 </div>
-<meta itemprop="image" content="http://medlibrary.org/lib/images-rx/a-hydrocort/a-hydrocort-for-injection-usp1-figure-2-jrl-2526.jpg"></header><meta itemprop="description" content="Hospira, Inc.: When oral therapy is not feasible, and the strength, dosage form and route of administration of the drug reasonably lend the preparation to the treatment of the condition. A-Hydrocort sterile powder is indicated for intravenous or intramuscular use...">
-<p class="DocumentTitle"><strong>A-HYDROCORT- hydrocortisone sodium succinate injection, powder, lyophilized, for solution</strong><br>Hospira, Inc.<br></p>
-<div><a id="section-1"></a></div> <h2><a id="b7a70e7f-3b8a-4f55-8293-b056981ad111"></a></h2>
-<p class="First "> <span class="Bold "> <span class="Emphasis ">Hydrocortisone Sodium Succinate</span> </span> </p>
-<p> <span class="Bold "> <span class="Emphasis ">for Injection, USP</span> </span> </p>
-<p>R<sub>x</sub> only</p>
-<p> <span class="Bold "> <span class="Emphasis ">For Intravenous or Intramuscular Administration</span> </span> </p>
-<h2>DESCRIPTION<a id="dca14a04-c196-4a27-b333-19909e1ea99e"></a><a id="section-11"></a>
+<meta itemprop="image" content="http://medlibrary.org/lib/images-rx/epitol/00093009001.jpg"></header><meta itemprop="description" content="Teva Pharmaceuticals USA Inc: Epitol (carbamazepine tablets USP) is indicated for use as an anticonvulsant drug. Evidence supporting efficacy of Epitol (carbamazepine tablets USP) as an anticonvulsant was derived from active drug-controlled studies that enrolled patients with...">
+<p class="DocumentTitle"><strong>EPITOL- carbamazepine tablet</strong><br>Teva Pharmaceuticals USA Inc<br></p>
+ <div id="section-1" class="Warning"> <h2>WARNINGS <a id="ID_bfb66399-5614-4228-9696-51839efa425e"></a>
 </h2>
-<p class="First ">A-Hydrocort sterile powder contains hydrocortisone sodium succinate as the active ingredient. Hydrocortisone sodium succinate, is a white, or nearly white, odorless, hygroscopic, amorphous solid. It is very soluble in water and in alcohol, very slightly soluble in acetone and insoluble in chloroform. The chemical name is pregn-4-ene-3,20-dione,21-(3-carboxy-1-oxopropoxy)-11,17-dihydroxy-, monosodium salt, (11β)- and its molecular weight is 484.52.</p>
+<p class="First ">SERIOUS DERMATOLOGIC REACTIONS AND HLA-B<sup>*</sup> 1502 ALLELE</p>
+<p>SERIOUS AND SOMETIMES FATAL DERMATOLOGIC REACTIONS, INCLUDING TOXIC EPIDERMAL NECROLYSIS (TEN) AND STEVENS-JOHNSON SYNDROME (SJS), HAVE BEEN REPORTED DURING TREATMENT WITH CARBAMAZEPINE. THESE REACTIONS ARE ESTIMATED TO OCCUR IN 1 TO 6 PER 10,000 NEW USERS IN COUNTRIES WITH MAINLY CAUCASIAN POPULATIONS, BUT THE RISK IN SOME ASIAN COUNTRIES IS ESTIMATED TO BE ABOUT 10 TIMES HIGHER. STUDIES IN PATIENTS OF CHINESE ANCESTRY HAVE FOUND A STRONG ASSOCIATION BETWEEN THE RISK OF DEVELOPING SJS/TEN AND THE PRESENCE OF HLA-B<sup>*</sup> 1502, AN INHERITED ALLELIC VARIANT OF THE HLA-B GENE. HLA-B<sup>*</sup> 1502 IS FOUND ALMOST EXCLUSIVELY IN PATIENTS WITH ANCESTRY ACROSS BROAD AREAS OF ASIA. PATIENTS WITH ANCESTRY IN GENETICALLY AT-RISK POPULATIONS SHOULD BE SCREENED FOR THE PRESENCE OF HLA-B<sup>*</sup> 1502 PRIOR TO INITIATING TREATMENT WITH CARBAMAZEPINE. PATIENTS TESTING POSITIVE FOR THE ALLELE SHOULD NOT BE TREATED WITH CARBAMAZEPINE UNLESS THE BENEFIT CLEARLY OUTWEIGHS THE RISK (SEE <strong>WARNINGS</strong> AND <strong>PRECAUTIONS, Laboratory Tests</strong>).</p>
 <aside id="ab1e" style="display:none"><ins class="adsbygoogle" data-ad-client="ca-pub-3862246084592963"></ins>
-</aside><p>The structural formula is represented below:</p>
-<div class="post_image" style="width:300px"> <div class="post_image_img"> <a href="img/a-hydrocort-for-injection-usp1-figure-1-xen-1768-1-300x171.jpg"><img alt="structural formula hydrocortisone sodium succinate" src="img/a-hydrocort-for-injection-usp1-figure-1-xen-1768-1-300x171.jpg"></a> </div>
-<div class="post_image_attr"> <a href="img/a-hydrocort-for-injection-usp1-figure-1-xen-1768-1-300x171.jpg">(click image for full-size original)</a> </div>
-</div>
-<p>Hydrocortisone sodium succinate is an anti-inflammatory adrenocortical steroid. This highly water-soluble sodium succinate ester of hydrocortisone permits the immediate intravenous administration of high doses of hydrocortisone in a small volume of diluent and is particularly useful where high blood levels of hydrocortisone are required rapidly.</p>
-<p>A-Hydrocort sterile powder is available for intravenous or intramuscular administration.</p>
-<p><span class="Bold "><span class="Emphasis ">100 mg</span></span> − Vials containing hydrocortisone sodium succinate equivalent to 100 mg hydrocortisone, also 0.8 mg monobasic sodium phosphate anhydrous, 8.73 mg dibasic sodium phosphate anhydrous.</p>
-<p>When necessary, the pH was adjusted with sodium hydroxide so that the pH of the reconstituted solution is within the USP specified range of 7 to 8.</p>
-<p>For intravenous or intramuscular injection, vial should be reconstituted with Bacteriostatic Water for Injection or Bacteriostatic Sodium Chloride. </p>
-<p>For intravenous infusion, vial should be reconstituted with Bacteriostatic Water for Injection.</p>
-<h2>CLINICAL PHARMACOLOGY<a id="a9a365c4-1b09-4676-b397-2d5afeddf817"></a><a id="section-12"></a>
+</aside><p> <span class="Underline ">APLASTIC ANEMIA AND AGRANULOCYTOSIS</span> </p>
+<p>APLASTIC ANEMIA AND AGRANULOCYTOSIS HAVE BEEN REPORTED IN ASSOCIATION WITH THE USE OF CARBAMAZEPINE. DATA FROM A POPULATION-BASED CASE CONTROL STUDY DEMONSTRATE THAT THE RISK OF DEVELOPING THESE REACTIONS IS 5 TO 8 TIMES GREATER THAN IN THE GENERAL POPULATION. HOWEVER, THE OVERALL RISK OF THESE REACTIONS IN THE UNTREATED GENERAL POPULATION IS LOW, APPROXIMATELY SIX PATIENTS PER ONE MILLION POPULATION PER YEAR FOR AGRANULOCYTOSIS AND TWO PATIENTS PER ONE MILLION POPULATION PER YEAR FOR APLASTIC ANEMIA.</p>
+<p>ALTHOUGH REPORTS OF TRANSIENT OR PERSISTENT DECREASED PLATELET OR WHITE BLOOD CELL COUNTS ARE NOT UNCOMMON IN ASSOCIATION WITH THE USE OF CARBAMAZEPINE, DATA ARE NOT AVAILABLE TO ESTIMATE ACCURATELY THEIR INCIDENCE OR OUTCOME. HOWEVER, THE VAST MAJORITY OF THE CASES OF LEUKOPENIA HAVE NOT PROGRESSED TO THE MORE SERIOUS CONDITIONS OF APLASTIC ANEMIA OR AGRANULOCYTOSIS.</p>
+<p>BECAUSE OF THE VERY LOW INCIDENCE OF AGRANULOCYTOSIS AND APLASTIC ANEMIA, THE VAST MAJORITY OF MINOR HEMATOLOGIC CHANGES OBSERVED IN MONITORING OF PATIENTS ON CARBAMAZEPINE ARE UNLIKELY TO SIGNAL THE OCCURRENCE OF EITHER ABNORMALITY. NONETHELESS, COMPLETE PRETREATMENT HEMATOLOGICAL TESTING SHOULD BE OBTAINED AS A BASELINE. IF A PATIENT IN THE COURSE OF TREATMENT EXHIBITS LOW OR DECREASED WHITE BLOOD CELL OR PLATELET COUNTS, THE PATIENT SHOULD BE MONITORED CLOSELY. DISCONTINUATION OF THE DRUG SHOULD BE CONSIDERED IF ANY EVIDENCE OF SIGNIFICANT BONE MARROW DEPRESSION DEVELOPS.</p>
+<a id="i4i_section_id_e496395d-7299-438e-9af9-0084392d8209"></a>
+</div> <a id="section-2"></a> <p class="First "> <strong>Prescribing Information</strong> </p>
+<div>
+<a id="i4i_section_id_aaf943b8-5eb7-4cb6-9a2e-e8ef7bc9b317"></a><a id="section-3"></a>
+</div> <p class="First "> <span class="Bold ">Before prescribing Epitol<sup>®</sup> , the physician should be thoroughly familiar with the details of this prescribing information, particularly regarding use with other drugs, especially those which accentuate toxicity potential.</span> </p>
+<h2>DESCRIPTION<a id="i4i_description_id_d204f692-4272-4a99-a399-f2f5cb0b1af9"></a><a id="section-11"></a>
 </h2>
-<p class="First ">Hydrocortisone sodium succinate has the same metabolic
-and anti-inflammatory actions as hydrocortisone. When given parenterally
-and in equimolar quantities, the two compounds are equivalent in biologic
-activity. Following the intravenous injection of hydrocortisone sodium
-succinate, demonstrable effects are evident within one hour and persist
-for a variable period. Excretion of the administered dose is nearly
-complete within 12 hours. Thus, if constantly high blood levels are
-required, injections should be made every 4 to 6 hours. This preparation
-is also rapidly absorbed when administered intramuscularly and is
-excreted in a pattern similar to that observed after intravenous injection.<br></p>
-<h2>INDICATIONS AND USAGE<a id="a9343f38-94b3-4ad9-9925-b94f0897dc22"></a>
+<p class="First ">Epitol, carbamazepine, USP, is an anticonvulsant and specific analgesic for trigeminal neuralgia, available for oral administration as tablets of 200 mg. Its chemical name is 5<em>H</em> -dibenz[<em>b,f</em> ]azepine-5-carboxamide, and its structural formula is:</p>
+<div><a id="id-820579381"></a></div>
+<img alt="Chemical Image.jpg" src="img/chemicalimage.jpg"><aside id="ab2e" style="display:none"><ins class="adsbygoogle" data-ad-client="ca-pub-3862246084592963"></ins>
+</aside><p>                                                                C<sub>15</sub> H<sub>12</sub> N<sub>2</sub> O M.W. 236.27</p>
+<p>Carbamazepine, USP is a white to off-white powder, practically insoluble in water and soluble in alcohol and in acetone.</p>
+<p>Epitol (carbamazepine tablets USP) 200 mg contain the inactive ingredients colloidal silicon dioxide, croscarmellose sodium, ethylcellulose, glycerin, lactose monohydrate, magnesium stearate, and sodium starch glycolate.</p>
+<p>Epitol 200 mg tablets meet USP Dissolution Test 3.</p>
+<h2>CLINICAL PHARMACOLOGY<a id="i4i_clinical_pharmacology_id_d88ebe6d-6bc0-4664-a461-167011d1a165"></a><a id="section-12"></a>
 </h2>
-<aside id="ab2e" style="display:none"><ins class="adsbygoogle" data-ad-client="ca-pub-3862246084592963"></ins>
-</aside><p class="First ">When oral therapy is not feasible, and the strength,
-dosage form and route of administration of the drug reasonably lend
-the preparation to the treatment of the condition, A-Hydrocort sterile
-powder is indicated for intravenous or intramuscular use in the following
-conditions: </p>
-<p> <span class="Bold "> <span class="Emphasis ">1. Endocrine
-Disorders</span> </span> </p>
-<ul>
-<li> <p class="First ">Primary or secondary adrenocortical insufficiency
-(hydrocortisone or cortisone is the drug of choice; synthetic analogs
-may be used in conjunction with mineralocorticoids where applicable;
-in infancy, mineralocorticoid supplementation is of particular importance)</p>
-</li> <li> <p class="First ">Acute adrenocortical insufficiency (hydrocortisone
-or cortisone is the drug of choice; mineralocorticoid supplementation
-may be necessary, particularly when synthetic analogs are used)</p>
-</li> <li> <p class="First ">Preoperatively and in the event of serious trauma
-or illness, in patients with known adrenal insufficiency or when adrenocortical
-reserve is doubtful</p>
-</li> <li> <p class="First ">Shock unresponsive to conventional therapy if adrenocortical
-insufficiency exists or is suspected</p>
-</li> <li> <p class="First ">Congenital adrenal hyperplasia</p>
-</li> <li> <p class="First ">Hypercalcemia associated with cancer</p>
-</li> <li> <p class="First ">Nonsuppurative thyroiditis</p>
-</li> </ul>
-<br><p> <span class="Bold "> <span class="Emphasis ">2. Rheumatic Disorders</span> </span> </p>
-<p>As adjunctive therapy for short-term
-administration (to tide the patient over an acute episode or exacerbation)
-in:</p>
-<ul>
-<li> <p class="First ">Post-traumatic osteoarthritis</p>
-</li> <li> <p class="First ">Synovitis of osteoarthritis</p>
-</li> <li> <p class="First ">Rheumatoid arthritis, including juvenile rheumatoid
-arthritis (selected cases may require low-dose maintenance therapy)</p>
-</li> <li> <p class="First ">Acute and subacute bursitis</p>
-</li> <li> <p class="First ">Epicondylitis</p>
-</li> <li> <p class="First ">Acute nonspecific tenosynovitis</p>
-</li> <li> <p class="First ">Acute gouty arthritis</p>
-</li> <li> <p class="First ">Psoriatic arthritis</p>
-</li> <li> <p class="First ">Ankylosing spondylitis</p>
-</li> </ul>
-<p> <span class="Bold "> <span class="Emphasis ">3. Collagen Diseases</span> </span> </p>
-<p>During an exacerbation or as maintenance
-therapy in selected cases of:</p>
-<ul>
-<li> <p class="First ">Systemic lupus erythematosus</p>
-</li> <li> <p class="First ">Systemic dermatomyositis (polymyositis)</p>
-</li> <li> <p class="First ">Acute rheumatic carditis</p>
-</li> </ul>
-<br><p> <span class="Bold "> <span class="Emphasis ">4. Dermatologic Diseases</span> </span> </p>
-<ul>
-<li> <p class="First ">Pemphigus</p>
-</li> <li> <p class="First "> Severe erythema multiforme (Stevens-Johnson syndrome)</p>
-</li> <li> <p class="First ">Exfoliative dermatitis</p>
-</li> <li> <p class="First ">Bullous dermatitis herpetiformis</p>
-</li> <li> <p class="First ">Severe seborrheic dermatitis</p>
-</li> <li> <p class="First "> Severe psoriasis</p>
-</li> <li> <p class="First ">Mycosis fungoides</p>
-</li> </ul>
-<br><p> <span class="Bold "> <span class="Emphasis ">5. Allergic States </span> </span> </p>
-<p>Control of severe or incapacitating allergic
-conditions intractable to adequate trials of conventional treatment
-in: </p>
-<ul>
-<li> <p class="First ">Bronchial asthma</p>
-</li> <li> <p class="First ">Contact dermatitis</p>
-</li> <li> <p class="First ">Atopic dermatitis</p>
-</li> <li> <p class="First ">Serum sickness</p>
-</li> <li> <p class="First ">Seasonal or perennial allergic rhinitis</p>
-</li> <li> <p class="First ">Drug hypersensitivity reactions</p>
-</li> <li> <p class="First ">Urticarial transfusion reactions</p>
-</li> <li> <p class="First ">Acute noninfectious laryngeal edema (epinephrine
-is the drug of first choice)</p>
-</li> </ul>
-<br><p> <span class="Bold "> <span class="Emphasis ">6. Ophthalmic Diseases</span> </span> </p>
-<p>Severe acute and chronic allergic and
-inflammatory processes involving the eye, such as: </p>
-<ul>
-<li> <p class="First ">Herpes zoster ophthalmicus</p>
-</li> <li> <p class="First ">Iritis, iridocyclitis</p>
-</li> <li> <p class="First "> Chorioretinitis</p>
-</li> <li> <p class="First ">Diffuse posterior uveitis and choroiditis</p>
-</li> <li> <p class="First ">Optic neuritis</p>
-</li> <li> <p class="First ">Sympathetic ophthalmia</p>
-</li> <li> <p class="First ">Anterior segment inflammation</p>
-</li> <li> <p class="First ">Allergic conjunctivitis</p>
-</li> <li> <p class="First "> Allergic corneal marginal ulcers</p>
-</li> <li> <p class="First "> Keratitis</p>
-</li> </ul>
-<br><p> <span class="Bold "> <span class="Emphasis ">7. Gastrointestinal
-Diseases</span> </span> </p>
-<p>To tide the patient
-over a critical period of the disease in:</p>
-<ul>
-<li> <p class="First ">Ulcerative colitis (systemic therapy)</p>
-</li> <li> <p class="First ">Regional enteritis (systemic therapy)</p>
-</li> </ul>
-<br><p> <span class="Bold "> <span class="Emphasis ">8. Respiratory Diseases </span> </span> </p>
-<ul>
-<li> <p class="First ">Symptomatic sarcoidosis</p>
-</li> <li> <p class="First ">Berylliosis</p>
-</li> <li> <p class="First "> Fulminating or disseminated pulmonary tuberculosis
-when used concurrently with appropriate antituberculous chemotherapy</p>
-</li> <li> <p class="First ">Loeffler’s syndrome not manageable by other
-means </p>
-</li> <li> <p class="First ">Aspiration pneumonitis</p>
-</li> </ul>
-<p> <span class="Bold "> <span class="Emphasis ">9. Hematologic Disorders</span> </span> <br></p>
-<ul>
-<li> <p class="First ">Acquired (autoimmune) hemolytic anemia</p>
-</li> <li> <p class="First ">Idiopathic thrombocytopenic purpura in adults (IV
-only; IM administration is contraindicated)</p>
-</li> <li> <p class="First ">Secondary thrombocytopenia in adults</p>
-</li> <li> <p class="First ">Erythroblastopenia (RBC anemia)</p>
-</li> <li> <p class="First ">Congenital (erythroid) hypoplastic anemia</p>
-</li> </ul>
-<p> <span class="Bold "> <span class="Emphasis ">10. Neoplastic Diseases</span> </span> </p>
-<p>For palliative management of: </p>
-<ul>
-<li> <p class="First ">Leukemias and lymphomas in adults</p>
-</li> <li> <p class="First ">Acute leukemia of childhood</p>
-</li> </ul>
-<p> <span class="Bold "> <span class="Emphasis ">11. Edematous States</span> </span> </p>
-<p>To induce diuresis or remission of proteinuria
-in the nephrotic syndrome, without uremia, of the idiopathic type
-or that due to lupus erythematosus</p>
-<p> <span class="Bold "> <span class="Emphasis ">12. Nervous System</span> </span> </p>
-<p>Acute exacerbations of multiple sclerosis</p>
-<p> <span class="Bold "> <span class="Emphasis ">13. Miscellaneous </span> </span> </p>
-<ul>
-<li> <p class="First ">Tuberculous meningitis with subarachnoid block or
-impending block when used concurrently with appropriate antituberculous
-chemotherapy</p>
-</li> <li> <p class="First "> Trichinosis with neurologic or myocardial involvement</p>
-</li> </ul>
+<p class="First ">In controlled clinical trials, carbamazepine has been shown to be effective in the treatment of psychomotor and grand mal seizures, as well as trigeminal neuralgia.</p>
+<h3>Mechanism of Action<a id="i4i_mechanism_action_id_3a805cb7-eb99-4877-b3d1-934f6c33bf71"></a><a id="section-12.1"></a>
+</h3> <p class="First ">Carbamazepine has demonstrated anticonvulsant properties in rats and mice with electrically and chemically induced seizures. It appears to act by reducing polysynaptic responses and blocking the post-tetanic potentiation. Carbamazepine greatly reduces or abolishes pain induced by stimulation of the infraorbital nerve in cats and rats. It depresses thalamic potential and bulbar and polysynaptic reflexes, including the linguomandibular reflex in cats. Carbamazepine is chemically unrelated to other anticonvulsants or other drugs used to control the pain of trigeminal neuralgia. The mechanism of action remains unknown.</p>
+<p>The principal metabolite of Epitol, carbamazepine-10,11-epoxide, has anticonvulsant activity as demonstrated in several <em>in vivo</em> animal models of seizures. Though clinical activity for the epoxide has been postulated, the significance of its activity with respect to the safety and efficacy of Epitol has not been established.</p>
+<h3>Pharmacokinetics<a id="i4i_pharmacokinetics_id_c1a5c9d0-0661-49e9-9d57-1d99484b371f"></a><a id="section-12.3"></a>
+</h3> <p class="First ">In clinical studies, carbamazepine suspension, conventional tablets, and extended-release tablets delivered equivalent amounts of drug to the systemic circulation. However, the suspension was absorbed somewhat faster, and the extended-release tablet slightly slower, than the conventional tablet. The bioavailability of the extended-release tablet was 89% compared to suspension. Following a b.i.d. dosage regimen, the suspension provides higher peak levels and lower trough levels than those obtained from the conventional tablet for the same dosage regimen. On the other hand, following a t.i.d. dosage regimen, carbamazepine suspension affords steady-state plasma levels comparable to carbamazepine tablets given b.i.d. when administered at the same total mg daily dose. Following a b.i.d. dosage regimen, carbamazepine extended-release tablets afford steady-state plasma levels comparable to conventional carbamazepine tablets given q.i.d., when administered at the same total mg daily dose. Carbamazepine in blood is 76% bound to plasma proteins. Plasma levels of carbamazepine are variable and may range from 0.5 to 25 mcg/mL, with no apparent relationship to the daily intake of the drug. Usual adult therapeutic levels are between 4 and 12 mcg/mL. In polytherapy, the concentration of carbamazepine and concomitant drugs may be increased or decreased during therapy, and drug effects may be altered (see <strong>PRECAUTIONS, Drug Interactions</strong>). Following chronic oral administration of suspension, plasma levels peak at approximately 1.5 hours compared to 4 to 5 hours after administration of conventional carbamazepine tablets, and 3 to 12 hours after administration of carbamazepine extended-release tablets. The CSF/serum ratio is 0.22, similar to the 24% unbound carbamazepine in serum. Because carbamazepine induces its own metabolism, the half-life is also variable. Autoinduction is completed after 3 to 5 weeks of a fixed dosing regimen. Initial half-life values range from 25 to 65 hours, decreasing to 12 to 17 hours on repeated doses. Carbamazepine is metabolized in the liver. Cytochrome P450 3A4 was identified as the major isoform responsible for the formation of carbamazepine-10,11-epoxide from carbamazepine. Human microsomal epoxide hydrolase has been identified as the enzyme responsible for the formation of the 10,11-transdiol derivative from carbamazepine-10,11 epoxide. After oral administration of <sup>14</sup> C-carbamazepine, 72% of the administered radioactivity was found in the urine and 28% in the feces. This urinary radioactivity was composed largely of hydroxylated and conjugated metabolites, with only 3% of unchanged carbamazepine.</p>
+<p>The pharmacokinetic parameters of carbamazepine disposition are similar in children and in adults. However, there is a poor correlation between plasma concentrations of carbamazepine and Epitol dose in children. Carbamazepine is more rapidly metabolized to carbamazepine-10,11-epoxide (a metabolite shown to be equipotent to carbamazepine as an anticonvulsant in animal screens) in the younger age groups than in adults. In children below the age of 15, there is an inverse relationship between CBZ-E/CBZ ratio and increasing age (in one report from 0.44 in children below the age of 1 year to 0.18 in children between 10 to 15 years of age).</p>
+<p>The effects of race and gender on carbamazepine pharmacokinetics have not been systematically evaluated.</p>
+<h2>INDICATIONS AND USAGE<a id="i4i_indications_id_a8fd6adc-e26f-457d-a993-e6fed5334942"></a>
+</h2> <h3>Epilepsy<a id="i4i_section_id_a7bf05a9-ab47-4016-9091-8e226818426c"></a><a id="section-1.1"></a>
+</h3> <p class="First ">Epitol (carbamazepine tablets USP) is indicated for use as an anticonvulsant drug. Evidence supporting efficacy of Epitol (carbamazepine tablets USP) as an anticonvulsant was derived from active drug-controlled studies that enrolled patients with the following seizure types:</p>
+<dl>
+<dt>1.</dt> <dd>Partial seizures with complex symptomatology (psychomotor, temporal lobe). Patients with these seizures appear to show greater improvement than those with other types.</dd> <dt>2.</dt> <dd>Generalized tonic-clonic seizures (grand mal).</dd> <dt>3.</dt> <dd>Mixed seizure patterns which include the above, or other partial or generalized seizures. Absence seizures (petit mal) do not appear to be controlled by Epitol (carbamazepine tablets USP) (see <strong>PRECAUTIONS, General</strong>).</dd> </dl>
 <footer><div class="wp-pagenavi">
-<span class="pages">Page 1 of 3</span>  <span class="current">1</span>  <a href="//medlibrary.org/lib/rx/meds/a-hydrocort/page/2/" class="page larger">2</a> <a href="//medlibrary.org/lib/rx/meds/a-hydrocort/page/3/" class="page larger">3</a> <a href="//medlibrary.org/lib/rx/meds/a-hydrocort/page/2/">»</a> </div>
+<span class="pages">Page 1 of 8</span>  <span class="current">1</span>  <a href="//medlibrary.org/lib/rx/meds/epitol/page/2/" class="page larger">2</a> <a href="//medlibrary.org/lib/rx/meds/epitol/page/3/" class="page larger">3</a> <a href="//medlibrary.org/lib/rx/meds/epitol/page/4/" class="page larger">4</a> <a href="//medlibrary.org/lib/rx/meds/epitol/page/5/" class="page larger">5</a> <span class="extend">…</span>  <a href="//medlibrary.org/lib/rx/meds/epitol/page/2/">»</a> <a href="//medlibrary.org/lib/rx/meds/epitol/page/8/" class="last">Last Page »</a> </div>
 <aside id="abre" style="display:none"><ins class="adsbygoogle" data-ad-client="ca-pub-3862246084592963"></ins>
 </aside><div class="reviewnote lightlinks">
 <p>All MedLibrary.org resources are included in as near-original form as possible, meaning that the information from the original provider has been rendered here with only typographical or stylistic modifications and not with any substantive alterations of content, meaning or intent.</p>
-<p>The URL of this page is:<br><a href="http://medlibrary.org/lib/rx/meds/a-hydrocort/" rel="bookmark">http://medlibrary.org/lib/rx/meds/a-hydrocort/</a></p>
+<p>The URL of this page is:<br><a href="http://medlibrary.org/lib/rx/meds/epitol/" rel="bookmark">http://medlibrary.org/lib/rx/meds/epitol/</a></p>
 </div>
-</footer>
-2-----------------------------------------------------------<article><header><meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
-<h1 itemprop="headline name">A-HYDROCORT (Page 2 of 3)</h1>
-<div class="byline entry-meta lightlinks">By <span itemprop="author" class="author vcard"><abbr class="fn" title="Hospira, Inc.">Hospira, Inc.</abbr></span> | Last revised: 12 May 2011<meta itemprop="datePublished" content="2011-05-12">
+</footer></article>2-----------------------------------------------------------<article><header><meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+<h1 itemprop="headline name">Epitol (Page 2 of 8)</h1>
+<div class="byline entry-meta lightlinks">By <span itemprop="author" class="author vcard"><abbr class="fn" title="Teva Pharmaceuticals USA Inc">Teva Pharmaceuticals USA Inc</abbr></span> | Last revised: 5 October 2015<meta itemprop="datePublished" content="2015-10-05">
 </div>
-<meta itemprop="image" content="http://medlibrary.org/lib/images-rx/a-hydrocort/a-hydrocort-for-injection-usp1-figure-2-jrl-2526.jpg"></header><meta itemprop="description" content="Page 2: Hospira, Inc.: When oral therapy is not feasible, and the strength, dosage form and route of administration of the drug reasonably lend the preparation to the treatment of the condition. A-Hydrocort sterile powder is indicated for intravenous or intramuscular use...">
-<h2>CONTRAINDICATIONS<a id="c1bd2fd6-2622-4e1e-9b88-561b49d6fb17"></a><a id="section-4"></a>
+<meta itemprop="image" content="http://medlibrary.org/lib/images-rx/epitol/00093009001.jpg"></header><meta itemprop="description" content="Page 2: Teva Pharmaceuticals USA Inc: Epitol (carbamazepine tablets USP) is indicated for use as an anticonvulsant drug. Evidence supporting efficacy of Epitol (carbamazepine tablets USP) as an anticonvulsant was derived from active drug-controlled studies that enrolled patients with...">
+<h3>Trigeminal Neuralgia<a id="i4i_section_id_5e62e23f-b998-4060-a46f-a2970c39b783"></a><a id="section-1.2"></a>
+</h3> <p class="First ">Epitol (carbamazepine tablets USP) is indicated in the treatment of the pain associated with true trigeminal neuralgia.</p>
+<p>Beneficial results have also been reported in glossopharyngeal neuralgia.</p>
+<p>This drug is not a simple analgesic and should not be used for the relief of trivial aches or pains.</p>
+<h2>CONTRAINDICATIONS<a id="i4i_contraindications_id_36f73564-6cd0-405a-acd7-0c066c20c2a3"></a><a id="section-4"></a>
 </h2>
-<p class="First ">The use of A-Hydrocort sterile powder is contraindicated
-in premature infants because the 100 mg vial is reconstituted with
-Bacteriostatic Water for Injection or Bacteriostatic Sodium Chloride
-Injection containing benzyl alcohol. Benzyl alcohol has been reported
-to be associated with a fatal “Gasping Syndrome” in
-premature infants. A-Hydrocort sterile powder is also contraindicated
-in systemic fungal infections and patients with known hypersensitivity
-to the product and its constituents. </p>
-<h2>WARNINGS<a id="d5131c88-10b1-453d-bcb2-fef7d35a4f3d"></a><a id="section-6"></a>
-</h2>
-<p class="First ">In patients on corticosteroid therapy subjected to
-unusual stress, increased dosage of rapidly acting corticosteroids
-before, during, and after the stressful situation is indicated. </p>
+<p class="First ">Epitol should not be used in patients with a history of previous bone marrow depression, hypersensitivity to the drug, or known sensitivity to any of the tricyclic compounds, such as amitriptyline, desipramine, imipramine, protriptyline, nortriptyline, etc. Likewise, on theoretical grounds its use with monoamine oxidase (MAO) inhibitors is not recommended. Before administration of Epitol, MAO inhibitors should be discontinued for a minimum of 14 days, or longer if the clinical situation permits.</p>
 <aside id="ab1e" style="display:none"><ins class="adsbygoogle" data-ad-client="ca-pub-3862246084592963"></ins>
-</aside><p>Corticosteroids may mask some signs of infection, and
-new infections may appear during their use. There may be decreased
-resistance and inability to localize infection when corticosteroids
-are used. </p>
-<p>Prolonged use of corticosteroids
-may produce posterior subcapsular cataracts, glaucoma with possible
-damage to the optic nerves, and may enhance the establishment of secondary
-ocular infections due to fungi or viruses.</p>
-<p><span class="Italics "><span class="Emphasis ">Usage in pregnancy</span></span>. Since adequate human
-reproduction studies have not been done with corticosteroids, the
-use of these drugs in pregnancy, nursing mothers, or women of childbearing
-potential requires that the possible benefits of the drug be weighed
-against the potential hazards to the mother and embryo or fetus. Infants
-born of mothers who have received substantial doses of corticosteroids
-during pregnancy should be carefully observed for signs of hypoadrenalism. </p>
-<p>Average and large doses of hydrocortisone can cause elevation
-of blood pressure, salt and water retention, and increased excretion
-of potassium. These effects are less likely to occur with the synthetic
-derivatives except when used in large doses. Dietary salt restriction
-and potassium supplementation may be necessary. All corticosteroids
-increase calcium excretion. </p>
-<p> <span class="Bold "> <span class="Emphasis ">While on corticosteroid therapy patients should not
-be vaccinated against smallpox. Other immunization procedures should
-not be undertaken in patients who are on corticosteroids, especially
-on high dose, because of possible hazards of neurological complications
-and a lack of antibody response.</span> </span> </p>
-<p>The
-use of A-Hydrocort sterile powder in active tuberculosis should be
-restricted to those cases of fulminating or disseminated tuberculosis
-in which the corticosteroid is used for the management of the disease
-in conjunction with appropriate antituberculous regimen. </p>
-<p>If corticosteroids are indicated in patients with latent
-tuberculosis or tuberculin reactivity, close observation is necessary
-as reactivation of the disease may occur. During prolonged corticosteroid
-therapy, these patients should receive chemoprophylaxis. </p>
-<p>Because rare instances of anaphylactoid reactions (eg,
-bronchospasm) have occurred in patients receiving parenteral corticosteroid
-therapy, appropriate precautionary measures should be taken prior
-to administration, especially when the patient has a history of allergy
-to any drug. </p>
+</aside><p>Coadministration of carbamazepine and nefazodone may result in insufficient plasma concentrations of nefazodone and its active metabolite to achieve a therapeutic effect. Coadministration of carbamazepine with nefazodone is contraindicated.</p>
+<h2>WARNINGS<a id="i4i_warnings_id_cdd73f40-4dc6-490a-bca8-ebe200dea408"></a><a id="section-8"></a>
+</h2> <h3>Serious Dermatologic Reactions<a id="i4i_section_id_b8247f8d-e515-47eb-8545-b069dab417b0"></a><a id="section-8.1"></a>
+</h3> <p class="First ">Serious and sometimes fatal dermatologic reactions, including toxic epidermal necrolysis (TEN) and Stevens-Johnson syndrome (SJS), have been reported with carbamazepine treatment. The risk of these events is estimated to be about 1 to 6 per 10,000 new users in countries with mainly Caucasian populations. However, the risk in some Asian countries is estimated to be about 10 times higher. Carbamazepine should be discontinued at the first sign of a rash, unless the rash is clearly not drug-related. If signs or symptoms suggest SJS/TEN, use of this drug should not be resumed and alternative therapy should be considered.</p>
+<h3>SJS/TEN and HLA-B<a id="i4i_section_id_faa87a58-fe59-4f17-8057-ad86375b2d66"></a><a id="section-8.2"></a><sup>*</sup> 1502 Allele</h3> <p class="First ">Retrospective case-control studies have found that in patients of Chinese ancestry there is a strong association between the risk of developing SJS/TEN with carbamazepine treatment and the presence of an inherited variant of the HLA-B gene, HLA-B<sup>*</sup> 1502. The occurrence of higher rates of these reactions in countries with higher frequencies of this allele suggests that the risk may be increased in allele-positive individuals of any ethnicity.</p>
+<p>Across Asian populations, notable variation exists in the prevalence of HLA-B<sup>*</sup> 1502. Greater than 15% of the population is reported positive in Hong Kong, Thailand, Malaysia, and parts of the Philippines, compared to about 10% in Taiwan and 4% in North China. South Asians, including Indians, appear to have intermediate prevalence of HLA-B<sup>*</sup> 1502, averaging 2% to 4%, but higher in some groups. HLA-B<sup>*</sup> 1502 is present in less than 1% of the population in Japan and Korea.</p>
+<p>HLA-B<sup>*</sup> 1502 is largely absent in individuals not of Asian origin (e.g., Caucasians, African-Americans, Hispanics, and Native Americans).</p>
+<p><span class="Bold ">Prior to initiating carbamazepine therapy, testing for HLA-B<sup>*</sup> 1502 should be performed in patients with ancestry in populations in which HLA-B<sup>*</sup> 1502 may be present.</span> In deciding which patients to screen, the rates provided above for the prevalence of HLA-B<sup>*</sup> 1502 may offer a rough guide, keeping in mind the limitations of these figures due to wide variability in rates even within ethnic groups, the difficulty in ascertaining ethnic ancestry, and the likelihood of mixed ancestry. Carbamazepine should not be used in patients positive for HLA-B<sup>*</sup> 1502 unless the benefits clearly outweigh the risks. Tested patients who are found to be negative for the allele are thought to have a low risk of SJS/TEN (see <strong>BOXED</strong> <strong>WARNING</strong> and <strong>PRECAUTIONS, Laboratory Tests</strong>).</p>
 <aside id="ab2e" style="display:none"><ins class="adsbygoogle" data-ad-client="ca-pub-3862246084592963"></ins>
-</aside><p>Persons who are on drugs which
-suppress the immune system are more susceptible to infections than
-healthy individuals. Chicken pox and measles, for example, can have
-a more serious or even fatal course in non-immune children or adults
-on corticosteroids. In such children or adults who have not had these
-diseases, particular care should be taken to avoid exposure. How the
-dose, route and duration of corticosteroid administration affects
-the risk of developing a disseminated infection is not known. The
-contribution of the underlying disease and/or prior corticosteroid
-treatment to the risk is also not known. If exposed to chicken pox,
-prophylaxis with varicella zoster immune globulin (VZIG) may be indicated.
-If exposed to measles, prophylaxis with pooled intramuscular immunoglobulin
-(IG) may be indicated. (See the respective package inserts for complete
-VZIG and IG prescribing information.) If chicken pox develops, treatment
-with antiviral agents may be considered. </p>
-<h2>PRECAUTIONS<a id="d4c80493-ddee-46ea-9e23-2904336c25d8"></a><a id="section-7"></a>
-</h2> <h3>General Precautions<a id="f2cd6ff6-9695-49b1-b1f7-1e9c5b9a15f0"></a><a id="section-7.1"></a>
-</h3> <p class="First ">Drug-induced secondary adrenocortical insufficiency
-may be minimized by gradual reduction of dosage. This type of relative
-insufficiency may persist for months after discontinuation of therapy;
-therefore, in any situation of stress occurring during that period,
-hormone therapy should be reinstituted. Since mineralocorticoid secretion
-may be impaired, salt and/or a mineralocorticoid should be administered
-concurrently. </p>
-<p>There is an enhanced effect of
-corticosteroids in patients with hypothyroidism and in those with
-cirrhosis.</p>
-<p>Corticosteroids should be used cautiously
-in patients with ocular herpes simplex for fear of corneal perforation. </p>
-<p>The lowest possible dose of corticosteroid should be used
-to control the condition under treatment, and when reduction in dosage
-is possible, the reduction must be gradual.</p>
-<p>Psychic derangements may appear when corticosteroids are used, ranging
-from euphoria, insomnia, mood swings, personality changes, and severe
-depression, to frank psychotic manifestations. Also, existing emotional
-instability or psychotic tendencies may be aggravated by corticosteroids.</p>
-<p>Aspirin should be used cautiously in conjunction with
-corticosteroids in hypoprothrombinemia.</p>
-<p>Steroids
-should be used with caution in nonspecific ulcerative colitis, if
-there is a probability of impending perforation, abscess or other
-pyogenic infection, also in diverticulitis, fresh intestinal anastomoses,
-active or latent peptic ulcer, renal insufficiency, hypertension,
-osteoporosis, and myasthenia gravis. </p>
-<p>Growth
-and development of infants and children on prolonged corticosteroid
-therapy should be carefully followed.</p>
-<p>Although
-controlled clinical trials have shown corticosteroids to be effective
-in speeding the resolution of acute exacerbations of multiple sclerosis,
-they do not show that corticosteroids affect the ultimate outcome
-or natural history of the disease. The studies do show that relatively
-high doses of corticosteroids are necessary to demonstrate a significant
-effect. (See <span class="Bold Italics "><span class="Emphasis ">DOSAGE AND ADMINISTRATION</span></span>).</p>
-<p>Since complications of treatment with glucocorticoids are dependent
-on the size of the dose and duration of treatment, a risk/benefit
-decision must be made in each individual case as to dose and duration
-of treatment and as to whether daily or intermittent therapy should
-be used. </p>
-<h2>DRUG INTERACTIONS<a id="a85301c5-6311-4e9b-b4cd-d9cb27256fdf"></a>
-</h2>
-<p class="First ">The pharmacokinetic interactions listed below are
-potentially clinically important. Drugs that induce hepatic enzymes
-such as phenobarbital, phenytoin and rifampin may increase the clearance
-of corticosteroids and may require increases in corticosteroid dose
-to achieve the desired response. Drugs such as troleandomycin and
-ketoconazole may inhibit the metabolism of corticosteroids and thus
-decrease their clearance. Therefore, the dose of corticosteroid should
-be titrated to avoid steroid toxicity. Corticosteroids may increase
-the clearance of chronic high-dose aspirin. This could lead to decreased
-salicylate serum levels or increase the risk of salicylate toxicity
-when corticosteroid is withdrawn. Aspirin should be used cautiously
-in conjunction with corticosteroids in patients suffering from hypoprothrombinemia.
-The effect of corticosteroids on oral anticoagulants is variable.
-There are reports of enhanced as well as diminished effects of anticoagulants
-when given concurrently with corticosteroids. Therefore, coagulation
-indices should be monitored to maintain the desired anticoagulant
-effect. </p>
-<h3>Information for the Patient<a id="d2dde88b-b5ba-4103-b4f5-0d9c8843e1b3"></a><a id="section-7.17"></a>
-</h3> <p class="First ">Persons who are on immunosuppressant doses of corticosteroids
-should be warned to avoid exposure to chicken pox or measles. Patients
-should also be advised that if they are exposed, medical advice should
-be sought without delay. </p>
-<h2>ADVERSE REACTIONS<a id="bf3a68a7-4476-4f12-a4b0-e1e5d479342d"></a>
-</h2>
-<p class="First "> <span class="Bold "> <span class="Emphasis ">Fluid and Electrolyte Disturbances </span> </span> </p>
-<p>Sodium retention, Fluid retention, Congestive
-heart failure in susceptible patients, Potassium loss, Hypokalemic
-alkalosis, Hypertension</p>
-<p> <span class="Bold "> <span class="Emphasis ">Musculoskeletal </span> </span> </p>
-<p>Muscle weakness,
-Steroid myopathy, Loss of muscle mass, Osteoporosis, Vertebral compression
-fractures, Aseptic necrosis of femoral and humeral heads, Pathologic
-fracture of long bones</p>
-<p> <span class="Bold "> <span class="Emphasis ">Gastrointestinal</span> </span> </p>
-<p>Peptic ulcer with
-possible perforation and hemorrhage, Pancreatitis, Abdominal distention,
-Ulcerative esophagitis</p>
-<p> <span class="Bold "> <span class="Emphasis ">Dermatologic </span> </span> </p>
-<p>Impaired wound healing,
-Thin fragile skin, Petechiae and ecchymoses, Facial erythema, Increased
-sweating, May suppress reactions to skin tests</p>
-<p> <span class="Bold "> <span class="Emphasis ">Neurological </span> </span> </p>
-<p>Convulsions, Increased intracranial pressure with papilledema (pseudotumor
-cerebri) usually after treatment, Vertigo, Headache</p>
-<p> <span class="Bold "> <span class="Emphasis ">Endocrine</span> </span> </p>
-<p>Menstrual irregularities, Development of Cushingoid state, Suppression
-of growth in children, Secondary adrenocortical and pituitary unresponsiveness,
-particularly in times of stress, as in trauma, surgery, or illness,
-Decreased carbohydrate tolerance, Manifestations of latent diabetes
-mellitus, Increased requirements of insulin or oral hypoglycemic agents
-in diabetics</p>
-<p> <span class="Bold "> <span class="Emphasis ">Ophthalmic </span> </span> </p>
-<p>Posterior subcapsular cataracts, Increased
-intraocular pressure, Glaucoma, Exophthalmos</p>
-<p> <span class="Bold "> <span class="Emphasis ">Metabolic</span> </span> </p>
-<p>Negative nitrogen balance due to protein catabolism </p>
-<p>The following additional reactions are related to parenteral corticosteroid
-therapy: </p>
-<p>Allergic, anaphylactic or other hypersensitivity
-reactions, Hyperpigmentation or hypopigmentation, Subcutaneous and
-cutaneous atrophy, Sterile abscess</p>
+</aside><p>Over 90% of carbamazepine treated patients who will experience SJS/TEN have this reaction within the first few months of treatment. This information may be taken into consideration in determining the need for screening of genetically at-risk patients currently on carbamazepine.</p>
+<p>The HLA-B<sup>*</sup> 1502 allele has not been found to predict risk of less severe adverse cutaneous reactions from carbamazepine, such as maculopapular eruption (MPE) or to predict Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS).</p>
+<p>Limited evidence suggests that HLA-B<sup>*</sup> 1502 may be a risk factor for the development of SJS/TEN in patients of Chinese ancestry taking other antiepileptic drugs associated with SJS/TEN, including phenytoin. Consideration should be given to avoiding use of other drugs associated with SJS/TEN in HLA-B<sup>*</sup> 1502 positive patients, when alternative therapies are otherwise equally acceptable.</p>
+<h3>Hypersensitivity Reactions and HLA-A<a id="i4i_section_id_832291fa-6ae6-44c8-b103-7b06b831c508"></a><a id="section-8.3"></a><sup>*</sup> 3101 Allele</h3> <p class="First ">Retrospective case-control studies in patients of European, Korean, and Japanese ancestry have found a moderate association between the risk of developing hypersensitivity reactions and the presence of HLA-A<sup>*</sup> 3101, an inherited allelic variant of the HLA-A gene, in patients using carbamazepine. These hypersensitivity reactions include SJS/TEN, maculopapular eruptions, and Drug Reaction with Eosinophilia and Systemic Symptoms (see <strong>DRESS/Multiorgan Hypersensitivity</strong> below). </p>
+<p>HLA-A<sup>*</sup> 3101 is expected to be carried by more than 15% of patients of Japanese, Native American, Southern Indian (for example, Tamil Nadu) and some Arabic ancestry; up to about 10% in patients of Han Chinese, Korean, European, Latin American, and other Indian ancestry; and up to about 5% in African-Americans and patients of Thai, Taiwanese, and Chinese (Hong Kong) ancestry. </p>
+<p>The risks and benefits of carbamazepine therapy should be weighed before considering Epitol in patients known to be positive for HLA-A<sup>*</sup> 3101.</p>
+<p>Application of HLA genotyping as a screening tool has important limitations and must never substitute for appropriate clinical vigilance and patient management. Many HLA-B<sup>*</sup> 1502-positive and HLA-A<sup>*</sup> 3101-positive patients treated with carbamazepine will not develop SJS/TEN or other hypersensitivity reactions, and these reactions can still occur infrequently in HLA-B<sup>*</sup> 1502-negative and HLA-A<sup>*</sup> 3101-negative patients of any ethnicity. The role of other possible factors in the development of, and morbidity from, SJS/TEN and other hypersensitivity reactions, such as antiepileptic drug (AED) dose, compliance, concomitant medications, comorbidities, and the level of dermatologic monitoring, have not been studied.</p>
+<h3>Aplastic Anemia and Agranulocytosis<a id="i4i_section_id_dc5101ad-9ef6-41fc-b651-fba19f566c32"></a><a id="section-8.4"></a>
+</h3> <p class="First ">Aplastic anemia and agranulocytosis have been reported in association with the use of Epitol (see <strong>BOXED WARNING</strong>). Patients with a history of adverse hematologic reaction to any drug may be particularly at risk of bone marrow depression.</p>
+<h3>Drug Reaction With Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan Hypersensitivity<a id="i4i_section_id_63f962c5-1734-4b07-8319-f7acc87ccdb7"></a><a id="section-8.5"></a>
+</h3> <p class="First ">Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), also known as multiorgan hypersensitivity, has occurred with Epitol. Some of these events have been fatal or life-threatening. DRESS typically, although not exclusively, presents with fever, rash, and/or lymphadenopathy, in association with other organ system involvement, such as hepatitis, nephritis, hematologic abnormalities, myocarditis, or myositis sometimes resembling an acute viral infection. Eosinophilia is often present. This disorder is variable in its expression, and other organ systems not noted here may be involved. It is important to note that early manifestations of hypersensitivity (e.g., fever, lymphadenopathy) may be present even though rash is not evident. If such signs or symptoms are present, the patient should be evaluated immediately. Epitol should be discontinued if an alternative etiology for the signs or symptoms cannot be established.</p>
+<h4>Hypersensitivity<a id="i4i_section_id_2cb092ad-3003-4eb9-9087-07c84364b9ef"></a><a id="section-8.5.1"></a>
+</h4> <p class="First ">Hypersensitivity reactions to carbamazepine have been reported in patients who previously experienced this reaction to anticonvulsants including phenytoin, primidone, and phenobarbital. If such history is present, benefits and risks should be carefully considered and, if carbamazepine is initiated, the signs and symptoms of hypersensitivity should be carefully monitored. </p>
+<p>Patients should be informed that about a third of patients who have had hypersensitivity reactions to carbamazepine also experience hypersensitivity reactions with oxcarbazepine.</p>
+<h3>Suicidal Behavior and Ideation<a id="i4i_section_id_4921cca2-3184-481f-b3f7-04db5674b1a6"></a><a id="section-8.6"></a>
+</h3> <p class="First ">Antiepileptic drugs (AEDs), including Epitol, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication. Patients treated with any AED for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.</p>
+<p>Pooled analyses of 199 placebo-controlled clinical trials (mono- and adjunctive therapy) of 11 different AEDs showed that patients randomized to one of the AEDs had approximately twice the risk (adjusted Relative Risk 1.8, 95% CI:1.2, 2.7) of suicidal thinking or behavior compared to patients randomized to placebo. In these trials, which had a median treatment duration of 12 weeks, the estimated incidence rate of suicidal behavior or ideation among 27,863 AED-treated patients was 0.43%, compared to 0.24% among 16,029 placebo-treated patients, representing an increase of approximately one case of suicidal thinking or behavior for every 530 patients treated. There were four suicides in drug-treated patients in the trials and none in placebo-treated patients, but the number is too small to allow any conclusion about drug effect on suicide.</p>
+<p>The increased risk of suicidal thoughts or behavior with AEDs was observed as early as one week after starting drug treatment with AEDs and persisted for the duration of treatment assessed. Because most trials included in the analysis did not extend beyond 24 weeks, the risk of suicidal thoughts or behavior beyond 24 weeks could not be assessed.</p>
+<p>The risk of suicidal thoughts or behavior was generally consistent among drugs in the data analyzed. The finding of increased risk with AEDs of varying mechanisms of action and across a range of indications suggests that the risk applies to all AEDs used for any indication. The risk did not vary substantially by age (5 to 100 years) in the clinical trials analyzed. <strong>Table 1</strong> shows absolute and relative risk by indication for all evaluated AEDs.</p>
+<div><a id="_Refid_96c3ad0e-df15-4475-ba8a-412d86b1d"></a></div> <table width="95%" style="font-size:80%">
+<caption> <span>Table 1: Risk by Indication for Antiepileptic Drugs in the Pooled Analysis</span> </caption> <col width="12%">
+<col width="17%">
+<col width="16%">
+<col width="31%">
+<col width="24%">
+<thead><tr class="First Last ">
+<th class="Botrule Lrule Toprule " style="text-align:left" valign="bottom">Indication</th> <th class="Botrule Toprule " style="text-align:left" valign="bottom">Placebo Patients with Events Per 1,000 Patients</th> <th class="Botrule Toprule " style="text-align:left" valign="bottom">Drug Patients with Events Per 1,000 Patients</th> <th class="Botrule Toprule " style="text-align:left" valign="bottom">Relative Risk: Incidence of Events in Drug Patients/Incidence in Placebo Patients</th> <th class="Botrule Rrule Toprule " style="text-align:left" valign="bottom">Risk Difference: Additional Drug Patients with Events Per 1,000 Patients</th> </tr></thead>
+<tbody>
+<tr class="First ">
+<td class="Botrule Lrule Toprule " valign="middle"> <p class="First ">Epilepsy</p>
+</td> <td class="Botrule Toprule " valign="middle"> <p class="First ">1.0</p>
+</td> <td class="Botrule Toprule " valign="middle"> <p class="First ">3.4</p>
+</td> <td class="Botrule Toprule " valign="middle"> <p class="First ">3.5</p>
+</td> <td class="Botrule Rrule Toprule " valign="middle"> <p class="First ">2.4</p>
+</td> </tr>
+<tr>
+<td class="Botrule Lrule " valign="middle"> <p class="First ">Psychiatric</p>
+</td> <td class="Botrule " valign="middle"> <p class="First ">5.7</p>
+</td> <td class="Botrule " valign="middle"> <p class="First ">8.5</p>
+</td> <td class="Botrule " valign="middle"> <p class="First ">1.5</p>
+</td> <td class="Botrule Rrule " valign="middle"> <p class="First ">2.9</p>
+</td> </tr>
+<tr>
+<td class="Botrule Lrule " valign="middle"> <p class="First ">Other</p>
+</td> <td class="Botrule " valign="middle"> <p class="First ">1.0</p>
+</td> <td class="Botrule " valign="middle"> <p class="First ">1.8</p>
+</td> <td class="Botrule " valign="middle"> <p class="First ">1.9</p>
+</td> <td class="Botrule Rrule " valign="middle"> <p class="First ">0.9</p>
+</td> </tr>
+<tr class="Last ">
+<td class="Botrule Lrule " valign="middle"> <p class="First ">Total</p>
+</td> <td class="Botrule " valign="middle"> <p class="First ">2.4</p>
+</td> <td class="Botrule " valign="middle"> <p class="First ">4.3</p>
+</td> <td class="Botrule " valign="middle"> <p class="First ">1.8</p>
+</td> <td class="Botrule Rrule " valign="middle"> <p class="First ">1.9</p>
+</td> </tr>
+</tbody>
+</table>
+<p>The relative risk for suicidal thoughts or behavior was higher in clinical trials for epilepsy than in clinical trials for psychiatric or other conditions, but the absolute risk differences were similar for the epilepsy and psychiatric indications.</p>
+<p>Anyone considering prescribing Epitol or any other AED must balance the risk of suicidal thoughts or behavior with the risk of untreated illness. Epilepsy and many other illnesses for which AEDs are prescribed are themselves associated with morbidity and mortality and an increased risk of suicidal thoughts and behavior. Should suicidal thoughts and behavior emerge during treatment, the prescriber needs to consider whether the emergence of these symptoms in any given patient may be related to the illness being treated.</p>
+<p>Patients, their caregivers, and families should be informed that AEDs increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm. Behaviors of concern should be reported immediately to healthcare providers.</p>
 
 <footer><div class="wp-pagenavi">
-<span class="pages">Page 2 of 3</span>  <a href="//medlibrary.org/lib/rx/meds/a-hydrocort/">«</a> <a href="//medlibrary.org/lib/rx/meds/a-hydrocort/" class="page smaller">1</a> <span class="current">2</span>  <a href="//medlibrary.org/lib/rx/meds/a-hydrocort/page/3/" class="page larger">3</a> <a href="//medlibrary.org/lib/rx/meds/a-hydrocort/page/3/">»</a> </div>
+<span class="pages">Page 2 of 8</span>  <a href="//medlibrary.org/lib/rx/meds/epitol/">«</a> <a href="//medlibrary.org/lib/rx/meds/epitol/" class="page smaller">1</a> <span class="current">2</span>  <a href="//medlibrary.org/lib/rx/meds/epitol/page/3/" class="page larger">3</a> <a href="//medlibrary.org/lib/rx/meds/epitol/page/4/" class="page larger">4</a> <a href="//medlibrary.org/lib/rx/meds/epitol/page/5/" class="page larger">5</a> <span class="extend">…</span>  <a href="//medlibrary.org/lib/rx/meds/epitol/page/3/">»</a> <a href="//medlibrary.org/lib/rx/meds/epitol/page/8/" class="last">Last Page »</a> </div>
 <aside id="abre" style="display:none"><ins class="adsbygoogle" data-ad-client="ca-pub-3862246084592963"></ins>
 </aside><div class="reviewnote lightlinks">
 <p>All MedLibrary.org resources are included in as near-original form as possible, meaning that the information from the original provider has been rendered here with only typographical or stylistic modifications and not with any substantive alterations of content, meaning or intent.</p>
-<p>The URL of this page is:<br><a href="http://medlibrary.org/lib/rx/meds/a-hydrocort/page/2/" rel="bookmark">http://medlibrary.org/lib/rx/meds/a-hydrocort/page/2/</a></p>
+<p>The URL of this page is:<br><a href="http://medlibrary.org/lib/rx/meds/epitol/page/2/" rel="bookmark">http://medlibrary.org/lib/rx/meds/epitol/page/2/</a></p>
 </div>
-</footer></article>3-----------------------------------------------------------
-<header><meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
-<h1 itemprop="headline name">A-HYDROCORT (Page 3 of 3)</h1>
-<div class="byline entry-meta lightlinks">By <span itemprop="author" class="author vcard"><abbr class="fn" title="Hospira, Inc.">Hospira, Inc.</abbr></span> | Last revised: 12 May 2011<meta itemprop="datePublished" content="2011-05-12">
+</footer></article>3-----------------------------------------------------------<article><header><meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+<h1 itemprop="headline name">Epitol (Page 3 of 8)</h1>
+<div class="byline entry-meta lightlinks">By <span itemprop="author" class="author vcard"><abbr class="fn" title="Teva Pharmaceuticals USA Inc">Teva Pharmaceuticals USA Inc</abbr></span> | Last revised: 5 October 2015<meta itemprop="datePublished" content="2015-10-05">
 </div>
-<meta itemprop="image" content="http://medlibrary.org/lib/images-rx/a-hydrocort/a-hydrocort-for-injection-usp1-figure-2-jrl-2526.jpg"></header><meta itemprop="description" content="Page 3: Hospira, Inc.: When oral therapy is not feasible, and the strength, dosage form and route of administration of the drug reasonably lend the preparation to the treatment of the condition. A-Hydrocort sterile powder is indicated for intravenous or intramuscular use...">
-<h2>DOSAGE AND ADMINISTRATION<a id="c81fd9af-85b3-40ce-9abb-30d36c6b6a16"></a><a id="section-2"></a>
-</h2>
-<p class="First ">This preparation may be administered by intravenous
-injection, by intravenous infusion, or by intramuscular injection,
-the preferred method for initial emergency use being intravenous injection.
-Following the initial emergency period, consideration should be given
-to employing a longer acting injectable preparation or an oral preparation. </p>
-<p>Therapy is initiated by administering A-Hydrocort sterile
-powder intravenously over a period of 30 seconds (eg, 100 mg) to 10
-minutes (eg, 500 mg or more). In general, high-dose corticosteroid
-therapy should be continued only until the patient’s condition
-has stabilized − usually not beyond 48 to 72 hours. Although
-adverse effects associated with high-dose, short-term corticoid therapy
-are uncommon, peptic ulceration may occur. Prophylactic antacid therapy
-may be indicated.</p>
+<meta itemprop="image" content="http://medlibrary.org/lib/images-rx/epitol/00093009001.jpg"></header><meta itemprop="description" content="Page 3: Teva Pharmaceuticals USA Inc: Epitol (carbamazepine tablets USP) is indicated for use as an anticonvulsant drug. Evidence supporting efficacy of Epitol (carbamazepine tablets USP) as an anticonvulsant was derived from active drug-controlled studies that enrolled patients with...">
+<h3>General<a id="i4i_section_id_674cce4a-6d6c-4543-ba06-9cd6524085ca"></a><a id="section-8.7"></a>
+</h3> <p class="First ">Epitol has shown mild anticholinergic activity that may be associated with increased intraocular pressure; therefore, patients with increased intraocular pressure should be closely observed during therapy.</p>
+<p>Because of the relationship of the drug to other tricyclic compounds, the possibility of activation of a latent psychosis and, in elderly patients, of confusion or agitation should be borne in mind.</p>
+<p>The use of carbamazepine should be avoided in patients with a history of hepatic porphyria (e.g., acute intermittent porphyria, variegate porphyria, porphyria cutanea tarda). Acute attacks have been reported in such patients receiving carbamazepine therapy. Carbamazepine administration has also been demonstrated to increase porphyrin precursors in rodents, a presumed mechanism for the induction of acute attacks of porphyria.</p>
 <aside id="ab1e" style="display:none"><ins class="adsbygoogle" data-ad-client="ca-pub-3862246084592963"></ins>
-</aside><p>When high-dose hydrocortisone
-therapy must be continued beyond 48-72 hours, hypernatremia may occur.
-Under such circumstances it may be desirable to replace hydrocortisone
-sodium succinate with a corticoid such as methylprednisolone sodium
-succinate which causes little or no sodium retention.</p>
-<p>The initial dose of A-Hydrocort sterile powder is 100 mg to 500 mg,
-depending on the severity of the condition. This dose may be repeated
-at intervals of 2, 4 or 6 hours as indicated by the patient’s
-response and clinical condition. While the dose may be reduced for
-infants and children, it is governed more by the severity of the condition
-and response of the patient than by age or body weight but should
-not be less than 25 mg daily. </p>
-<p>Patients subjected
-to severe stress following corticosteroid therapy should be observed
-closely for signs and symptoms of adrenocortical insufficiency. </p>
-<p>Corticoid therapy is an adjunct to, and not a replacement
-for, conventional therapy.</p>
-<p> <span class="Bold "> <span class="Emphasis ">Preparation of Solutions</span> </span> </p>
-<p><span class="Bold "><span class="Emphasis ">100 mg </span></span>− For intravenous
-or intramuscular injection, prepare solution by aseptically adding <span class="Bold "><span class="Emphasis ">not more than 2 mL</span></span> of Bacteriostatic Water
-for Injection or Bacteriostatic Sodium Chloride Injection to the contents
-of one vial. <span class="Bold "><span class="Emphasis ">Further dilution is not necessary
-for intravenous or intramuscular</span></span><span class="Bold "><span class="Emphasis "> injection.  For intravenous infusion,</span></span> first prepare solution
-by adding <span class="Bold "><span class="Emphasis ">not more than 2 mL</span></span> of
-Bacteriostatic Water for Injection to the vial; this solution may
-then be added to 100 to 1000 mL of the following: 5% dextrose in water
-(or isotonic saline solution or 5% dextrose in isotonic saline solution
-if patient is not on sodium restriction). In cases where administration
-of a small volume of fluid is desirable, 100 mg of hydrocortisone
-sodium succinate may be added to 50 mL of the above diluents. The
-resulting solutions are stable for at least 4 hours and may be administered
-either directly or by IV piggyback.</p>
-<p>When reconstituted
-as directed, pH’s of the solutions range from 7 to 8 and the
-tonicities are: 100 mg vial, .36 osmolar. (Isotonic saline = .28 osmolar.)</p>
-<h2>HOW SUPPLIED<a id="c00d2827-c2f3-4623-a74f-23e6d3006f43"></a><a id="section-16"></a>
+</aside><p>As with all antiepileptic drugs, Epitol should be withdrawn gradually to minimize the potential of increased seizure frequency.</p>
+<p>Hyponatremia can occur as a result of treatment with Epitol. In many cases, the hyponatremia appears to be caused by the syndrome of inappropriate antidiuretic hormone secretion (SIADH). The risk of developing SIADH with Epitol treatment appears to be dose-related. Elderly patients and patients treated with diuretics are at greater risk of developing hyponatremia. Consider discontinuing Epitol in patients with symptomatic hyponatremia. Signs and symptoms of hyponatremia include headache, new or increased seizure frequency, difficulty concentrating, memory impairment, confusion, weakness, and unsteadiness, which can lead to falls. Consider discontinuing Epitol in patients with symptomatic hyponatremia.</p>
+<h3>Usage in Pregnancy<a id="i4i_pregnancy_id_48aff862-dee7-4b9a-b36d-6eb852834818"></a>
+</h3> <p class="First ">Carbamazepine can cause fetal harm when administered to a pregnant woman.</p>
+<p>Epidemiological data suggest that there may be an association between the use of carbamazepine during pregnancy and congenital malformations, including spina bifida. There have also been reports that associate carbamazepine with developmental disorders and congenital anomalies (e.g., craniofacial defects, cardiovascular malformations, and anomalies involving various body systems). Developmental delays based on neurobehavioral assessments have been reported. When treating or counseling women of childbearing potential, the prescribing physician will wish to weigh the benefits of therapy against the risks. If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.</p>
+<p>Retrospective case reviews suggest that, compared with monotherapy, there may be a higher prevalence of teratogenic effects associated with the use of anticonvulsants in combination therapy. Therefore, if therapy is to be continued, monotherapy may be preferable for pregnant women.</p>
+<p>In humans, transplacental passage of carbamazepine is rapid (30 to 60 minutes), and the drug is accumulated in the fetal tissues, with higher levels found in liver and kidney than in brain and lung.</p>
+<p>Carbamazepine has been shown to have adverse effects in reproduction studies in rats when given orally in dosages 10 to 25 times the maximum human daily dosage (MHDD) of 1200 mg on a mg/kg basis or 1.5 to 4 times the MHDD on a mg/m<sup>2</sup> basis. In rat teratology studies, 2 of 135 offspring showed kinked ribs at 250 mg/kg and 4 of 119 offspring at 650 mg/kg showed other anomalies (cleft palate, 1; talipes, 1; anophthalmos, 2). In reproduction studies in rats, nursing offspring demonstrated a lack of weight gain and an unkempt appearance at a maternal dosage level of 200 mg/kg.</p>
+<aside id="ab2e" style="display:none"><ins class="adsbygoogle" data-ad-client="ca-pub-3862246084592963"></ins>
+</aside><p>Antiepileptic drugs should not be discontinued abruptly in patients in whom the drug is administered to prevent major seizures because of the strong possibility of precipitating status epilepticus with attendant hypoxia and threat to life. In individual cases where the severity and frequency of the seizure disorder are such that removal of medication does not pose a serious threat to the patient, discontinuation of the drug may be considered prior to and during pregnancy, although it cannot be said with any confidence that even minor seizures do not pose some hazard to the developing embryo or fetus.</p>
+<p>Tests to detect defects using currently accepted procedures should be considered a part of routine prenatal care in childbearing women receiving carbamazepine.</p>
+<p>There have been a few cases of neonatal seizures and/or respiratory depression associated with maternal carbamazepine and other concomitant anticonvulsant drug use. A few cases of neonatal vomiting, diarrhea, and/or decreased feeding have also been reported in association with maternal Epitol use. These symptoms may represent a neonatal withdrawal syndrome.</p>
+<p>To provide information regarding the effects of <em>in utero</em> exposure to Epitol, physicians are advised to recommend that pregnant patients taking Epitol enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry. This can be done by calling the toll free number 1-888-233-2334, and must be done by patients themselves. Information on the registry can also be found at the website http://www.aedpregnancyregistry.org/.</p>
+<h2>PRECAUTIONS<a id="i4i_precautions_id_d76ce770-14fc-4fe0-9470-2e7d1f10dfc6"></a><a id="section-9"></a>
+</h2> <h3>General<a id="i4i_precautions_general_id_6b473df6-8c44-46d9-9965-f9db4c502174"></a><a id="section-9.1"></a>
+</h3> <p class="First ">Before initiating therapy, a detailed history and physical examination should be made.</p>
+<p>Epitol should be used with caution in patients with a mixed seizure disorder that includes atypical absence seizures, since in these patients carbamazepine has been associated with increased frequency of generalized convulsions (see <strong>INDICATIONS AND USAGE</strong>).</p>
+<p>Therapy should be prescribed only after critical benefit-to-risk appraisal in patients with a history of cardiac conduction disturbance, including second- and third-degree AV heart block; cardiac, hepatic, or renal damage; adverse hematologic or hypersensitivity reaction to other drugs, including reactions to other anticonvulsants; or interrupted courses of therapy with carbamazepine.</p>
+<p>AV heart block, including second- and third-degree block, have been reported following carbamazepine treatment. This occurred generally, but not solely, in patients with underlying EKG abnormalities or risk factors for conduction disturbances.</p>
+<p>Hepatic effects, ranging from slight elevations in liver enzymes to rare cases of hepatic failure have been reported (see <strong>ADVERSE REACTIONS</strong> and <strong>PRECAUTIONS, Laboratory Tests</strong>). In some cases, hepatic effects may progress despite discontinuation of the drug. In addition rare instances of vanishing bile duct syndrome have been reported. This syndrome consists of a cholestatic process with a variable clinical course ranging from fulminant to indolent, involving the destruction and disappearance of the intrahepatic bile ducts. Some, but not all, cases are associated with features that overlap with other immunoallergenic syndromes such as multiorgan hypersensitivity (DRESS syndrome) and serious dermatologic reactions. As an example there has been a report of vanishing bile duct syndrome associated with Stevens-Johnson syndrome and in another case an association with fever and eosinophilia.</p>
+<h3>Information for Patients<a id="i4i_info_patients_id_008b1b00-ae04-4c8a-96be-bb9edc9c6f06"></a><a id="section-9.17"></a>
+</h3> <p class="First ">Patients should be informed of the availability of a Medication Guide and they should be instructed to read the Medication Guide before taking Epitol.</p>
+<p>Patients should be made aware of the early toxic signs and symptoms of a potential hematologic problem, as well as dermatologic, hypersensitivity or hepatic reactions. These symptoms may include, but are not limited to, fever, sore throat, rash, ulcers in the mouth, easy bruising, lymphadenopathy and petechial or purpuric hemorrhage, and in the case of liver reactions, anorexia, nausea/vomiting, or jaundice. The patient should be advised that, because these signs and symptoms may signal a serious reaction, that they must report any occurrence immediately to a physician. In addition, the patient should be advised that these signs and symptoms should be reported even if mild or when occurring after extended use.</p>
+<p>Patients should be advised that serious skin reactions have been reported in association with Epitol. In the event a skin reaction should occur while taking Epitol, patients should consult with their physician immediately (see<strong> WARNINGS</strong>).</p>
+<p>Patients, their caregivers, and families should be counseled that AEDs, including Epitol, may increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm. Behaviors of concern should be reported immediately to healthcare providers.</p>
+<p>Carbamazepine may interact with some drugs. Therefore, patients should be advised to report to their doctors the use of any other prescription or nonprescription medications or herbal products.</p>
+<p>Caution should be exercised if alcohol is taken in combination with carbamazepine therapy, due to a possible additive sedative effect.</p>
+<p>Since dizziness and drowsiness may occur, patients should be cautioned about the hazards of operating machinery or automobiles or engaging in other potentially dangerous tasks.</p>
+<p>Patients should be encouraged to enroll in the NAAED Pregnancy Registry if they become pregnant. This registry is collecting information about the safety of antiepileptic drugs during pregnancy. To enroll, patients can call the toll free number 1-888-233-2334 (see <strong>WARNINGS, Usage in Pregnancy</strong>).</p>
+
+<footer><div class="wp-pagenavi">
+<span class="pages">Page 3 of 8</span>  <a href="//medlibrary.org/lib/rx/meds/epitol/page/2/">«</a> <a href="//medlibrary.org/lib/rx/meds/epitol/" class="page smaller">1</a> <a href="//medlibrary.org/lib/rx/meds/epitol/page/2/" class="page smaller">2</a> <span class="current">3</span>  <a href="//medlibrary.org/lib/rx/meds/epitol/page/4/" class="page larger">4</a> <a href="//medlibrary.org/lib/rx/meds/epitol/page/5/" class="page larger">5</a> <span class="extend">…</span>  <a href="//medlibrary.org/lib/rx/meds/epitol/page/4/">»</a> <a href="//medlibrary.org/lib/rx/meds/epitol/page/8/" class="last">Last Page »</a> </div>
+<aside id="abre" style="display:none"><ins class="adsbygoogle" data-ad-client="ca-pub-3862246084592963"></ins>
+</aside><div class="reviewnote lightlinks">
+<p>All MedLibrary.org resources are included in as near-original form as possible, meaning that the information from the original provider has been rendered here with only typographical or stylistic modifications and not with any substantive alterations of content, meaning or intent.</p>
+<p>The URL of this page is:<br><a href="http://medlibrary.org/lib/rx/meds/epitol/page/3/" rel="bookmark">http://medlibrary.org/lib/rx/meds/epitol/page/3/</a></p>
+</div>
+</footer></article>4-----------------------------------------------------------<article><header><meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+<h1 itemprop="headline name">Epitol (Page 4 of 8)</h1>
+<div class="byline entry-meta lightlinks">By <span itemprop="author" class="author vcard"><abbr class="fn" title="Teva Pharmaceuticals USA Inc">Teva Pharmaceuticals USA Inc</abbr></span> | Last revised: 5 October 2015<meta itemprop="datePublished" content="2015-10-05">
+</div>
+<meta itemprop="image" content="http://medlibrary.org/lib/images-rx/epitol/00093009001.jpg"></header><meta itemprop="description" content="Page 4: Teva Pharmaceuticals USA Inc: Epitol (carbamazepine tablets USP) is indicated for use as an anticonvulsant drug. Evidence supporting efficacy of Epitol (carbamazepine tablets USP) as an anticonvulsant was derived from active drug-controlled studies that enrolled patients with...">
+<h3>Laboratory Tests<a id="i4i_lab_tests_id_5ba4d80c-5dcd-4416-96e2-947d4d0b1664"></a><a id="section-9.3"></a>
+</h3> <p class="First ">For genetically at-risk patients (see <strong>WARNINGS</strong>), high-resolution <em>‘HLA-B*1502 typing’</em> is recommended. The test is positive if either one or two HLA-B*1502 alleles are detected and negative if no HLA-B*1502 alleles are detected.</p>
+<p>Complete pretreatment blood counts, including platelets and possibly reticulocytes and serum iron, should be obtained as a baseline. If a patient in the course of treatment exhibits low or decreased white blood cell or platelet counts, the patient should be monitored closely. Discontinuation of the drug should be considered if any evidence of significant bone marrow depression develops.</p>
+<aside id="ab1e" style="display:none"><ins class="adsbygoogle" data-ad-client="ca-pub-3862246084592963"></ins>
+</aside><p>Baseline and periodic evaluations of liver function, particularly in patients with a history of liver disease, must be performed during treatment with this drug since liver damage may occur (see <strong>PRECAUTIONS, General</strong> and <strong>ADVERSE REACTIONS</strong>). Carbamazepine should be discontinued, based on clinical judgment, if indicated by newly occurring or worsening clinical or laboratory evidence of liver dysfunction or hepatic damage, or in the case of active liver disease.</p>
+<p>Baseline and periodic eye examinations, including slit-lamp, funduscopy, and tonometry, are recommended since many phenothiazines and related drugs have been shown to cause eye changes.</p>
+<p>Baseline and periodic complete urinalysis and BUN determinations are recommended for patients treated with this agent because of observed renal dysfunction.</p>
+<p>Monitoring of blood levels (see<strong> CLINICAL PHARMACOLOGY</strong>) has increased the efficacy and safety of anticonvulsants. This monitoring may be particularly useful in cases of dramatic increase in seizure frequency and for verification of compliance. In addition, measurement of drug serum levels may aid in determining the cause of toxicity when more than one medication is being used.</p>
+<p>Thyroid function tests have been reported to show decreased values with carbamazepine administered alone.</p>
+<p>Interference with some pregnancy tests has been reported.</p>
+<h3>Drug Interactions<a id="i4i_interactions_id_286a5d15-1ba6-49ff-80a6-6a3c6ea6da59"></a><a id="section-9.7"></a>
+</h3> <p class="First ">Clinically meaningful drug interactions have occurred with concomitant medications and include (but are not limited to) the following:</p>
+<h3>Agents That May Affect Carbamazepine Plasma Levels<a id="i4i_section_id_668325f6-426f-4ee5-9f3a-e44c00c8170a"></a><a id="section-9.5"></a>
+</h3> <p class="First ">When carbamazepine is given with drugs that can increase or decrease carbamazepine levels, close monitoring of carbamazepine levels is indicated and dosage adjustment may be required.</p>
+<p> <em>Agents That Increase Carbamazepine Levels</em> </p>
+<p>CYP3A4 inhibitors inhibit carbamazepine metabolism and can thus increase plasma carbamazepine levels. Drugs that have been shown, or would be expected, to increase plasma carbamazepine levels include aprepitant, cimetidine, ciprofloxacin, danazol, diltiazem, macrolides, erythromycin, troleandomycin, clarithromycin, fluoxetine, fluvoxamine, trazodone, olanzapine, loratadine, terfenadine, omeprazole, oxybutynin, dantrolene, isoniazid, niacinamide, nicotinamide, ibuprofen, propoxyphene, azoles (e.g., ketaconazole, itraconazole, fluconazole, voriconazole), acetazolamide, verapamil, ticlopidine, grapefruit juice, and protease inhibitors.</p>
+<aside id="ab2e" style="display:none"><ins class="adsbygoogle" data-ad-client="ca-pub-3862246084592963"></ins>
+</aside><p>Human microsomal epoxide hydrolase has been identified as the enzyme responsible for the formation of the 10,11-transdiol derivative from carbamazepine-10,11 epoxide. Coadministration of inhibitors of human microsomal epoxide hydrolase may result in increased carbamazepine-10,11 epoxide plasma concentrations. Accordingly, the dosage of carbamazepine should be adjusted and/or the plasma levels monitored when used concomitantly with loxapine, quetiapine, or valproic acid.</p>
+<p> <em>Agents That Decrease Carbamazepine Levels</em> </p>
+<p>CYP3A4 inducers can increase the rate of carbamazepine metabolism. Drugs that have been shown, or that would be expected, to decrease plasma carbamazepine levels include cisplatin, doxorubicin HCl, felbamate, fosphenytoin, rifampin, phenobarbital, phenytoin, primidone, methsuximide, theophylline, aminophylline.</p>
+<h3>Effect of Carbamazepine on Plasma Levels of Concomitant Agents<a id="i4i_section_id_4b9de6a1-cfe4-421c-be6d-0a95d0253c20"></a><a id="section-9.6"></a>
+</h3> <p class="First "> <em>Decreased Levels of Concomitant Medications</em> </p>
+<p>Carbamazepine is a potent inducer of hepatic 3A4 and is also known to be an inducer of CYP1A2, 2B6, 2C9/19 and may therefore reduce plasma concentrations of co-medications mainly metabolized by CYP 1A2, 2B6, 2C9/19 and 3A4, through induction of their metabolism. When used concomitantly with carbamazepine, monitoring of concentrations or dosage adjustment of these agents may be necessary:</p>
+<dl>
+<dt style="float:left">•</dt> <dd>When carbamazepine is added to aripiprazole, the aripiprazole dose should be doubled. Additional dose increases should be based on clinical evaluation. If carbamazepine is later withdrawn, the aripiprazole dose should be reduced. </dd> <dt style="float:left">•</dt> <dd>When carbamazepine is used with tacrolimus, monitoring of tacrolimus blood concentrations and appropriate dosage adjustments are recommended. </dd> <dt style="float:left">•</dt> <dd>The use of concomitant strong CYP3A4 inducers such as carbamazepine should be avoided with temsirolimus. If patients must be coadministered carbamazepine with temsirolimus, an adjustment of temsirolimus dosage should be considered. </dd> <dt style="float:left">•</dt> <dd>The use of carbamazepine with lapatinib should generally be avoided. If carbamazepine is started in a patient already taking lapatinib, the dose of lapatinib should be gradually titrated up. If carbamazepine is discontinued, the lapatinib dose should be reduced.</dd> <dt style="float:left">•</dt> <dd>Concomitant use of carbamazepine with nefazodone results in plasma concentrations of nefazodone and its active metabolite insufficient to achieve a therapeutic effect. Coadministration of carbamazepine with nefazodone is contraindicated (see <strong>CONTRAINDICATIONS</strong>).</dd> <dt style="float:left">•</dt> <dd>Monitor concentrations of valproate when carbamazepine is introduced or withdrawn in patients using valproic acid.</dd> </dl>
+<p>In addition, carbamazepine causes, or would be expected to cause, decreased levels of the following drugs, for which monitoring of concentrations or dosage adjustment may be necessary: acetaminophen, albendazole, alprazolam, aprepitant, buprenorphone, bupropion, citalopram, clonazepam, clozapine, corticosteroids (e.g., prednisolone, dexamethasone), cyclosporine, dicumarol, dihydropyridine calcium channel blockers (e.g., felodipine), doxycycline, ethosuximide, everolimus, haloperidol, imatinib, itraconazole, lamotrigine, levothyroxine, methadone, methsuximide, mianserin, midazolam, olanzapine, oral and other hormonal contraceptives, oxcarbazepine, paliperidone, phensuximide, phenytoin, praziquantel, protease inhibitors, risperidone, sertraline, sirolimus, tadalafil, theophylline, tiagabine, topiramate, tramadol, trazodone, tricyclic antidepressants (e.g., imipramine, amitriptyline, nortriptyline), valproate, warfarin, ziprasidone, zonisamide.</p>
+<h4>Other Drug Interactions<a id="i4i_section_id_7882cac8-6617-4afc-b89f-9fa8bdd03e6d"></a><a id="section-9.6.1"></a>
+</h4> <dl>
+<dt style="float:left">•</dt> <dd>Cyclophosphamide is an inactive prodrug and is converted to its active metabolite in part by CYP3A. The rate of metabolism and the leukopenic activity of cyclophosphamide are reportedly increased by chronic coadministration of CYP3A4 inducers. There is a potential for increased cyclophosphamide toxicity when coadministered with carbamazepine.</dd> <dt style="float:left">•</dt> <dd>Concomitant administration of carbamazepine and lithium may increase the risk of neurotoxic side effects.</dd> <dt style="float:left">•</dt> <dd>Concomitant use of carbamazepine and isoniazid has been reported to increase isoniazid-induced hepatotoxicity. </dd> <dt style="float:left">•</dt> <dd>Alterations of thyroid function have been reported in combination therapy with other anticonvulsant medications.</dd> <dt style="float:left">•</dt> <dd>Concomitant use of carbamazepine with hormonal contraceptive products (e.g., oral, and levonorgestrel subdermal implant contraceptives) may render the contraceptives less effective because the plasma concentrations of the hormones may be decreased. Breakthrough bleeding and unintended pregnancies have been reported. Alternative or back-up methods of contraception should be considered.</dd> <dt style="float:left">•</dt> <dd>Resistance to the neuromuscular blocking action of the nondepolarizing neuromuscular blocking agents pancuronium, vecuronium, rocuronium and cisatracurium has occurred in patients chronically administered carbamazepine. Whether or not carbamazepine has the same effect on other non-depolarizing agents is unknown. Patients should be monitored closely for more rapid recovery from neuromuscular blockade than expected, and infusion rate requirements may be higher.</dd> </dl>
+<h3>Carcinogenesis, Mutagenesis, Impairment of Fertility<a id="i4i_carcinogenesis_mutagenesis_fertility_id_fb97f7fd-0f5c-4e23-b11a-d14fd84404d4"></a>
+</h3> <p class="First ">Carbamazepine, when administered to Sprague-Dawley rats for two years in the diet at doses of 25, 75, and 250 mg/kg/day, resulted in a dose-related increase in the incidence of hepatocellular tumors in females and of benign interstitial cell adenomas in the testes of males.</p>
+<p>Carbamazepine must, therefore, be considered to be carcinogenic in Sprague-Dawley rats. Bacterial and mammalian mutagenicity studies using carbamazepine produced negative results. The significance of these findings relative to the use of carbamazepine in humans is, at present, unknown.</p>
+
+<footer><div class="wp-pagenavi">
+<span class="pages">Page 4 of 8</span>  <a href="//medlibrary.org/lib/rx/meds/epitol/" class="first">« First Page</a> <a href="//medlibrary.org/lib/rx/meds/epitol/page/3/">«</a> <span class="extend">…</span> <a href="//medlibrary.org/lib/rx/meds/epitol/page/2/" class="page smaller">2</a> <a href="//medlibrary.org/lib/rx/meds/epitol/page/3/" class="page smaller">3</a> <span class="current">4</span>  <a href="//medlibrary.org/lib/rx/meds/epitol/page/5/" class="page larger">5</a> <a href="//medlibrary.org/lib/rx/meds/epitol/page/6/" class="page larger">6</a> <span class="extend">…</span>  <a href="//medlibrary.org/lib/rx/meds/epitol/page/5/">»</a> <a href="//medlibrary.org/lib/rx/meds/epitol/page/8/" class="last">Last Page »</a> </div>
+<aside id="abre" style="display:none"><ins class="adsbygoogle" data-ad-client="ca-pub-3862246084592963"></ins>
+</aside><div class="reviewnote lightlinks">
+<p>All MedLibrary.org resources are included in as near-original form as possible, meaning that the information from the original provider has been rendered here with only typographical or stylistic modifications and not with any substantive alterations of content, meaning or intent.</p>
+<p>The URL of this page is:<br><a href="http://medlibrary.org/lib/rx/meds/epitol/page/4/" rel="bookmark">http://medlibrary.org/lib/rx/meds/epitol/page/4/</a></p>
+</div>
+</footer></article>5-----------------------------------------------------------<article><header><meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+<h1 itemprop="headline name">Epitol (Page 5 of 8)</h1>
+<div class="byline entry-meta lightlinks">By <span itemprop="author" class="author vcard"><abbr class="fn" title="Teva Pharmaceuticals USA Inc">Teva Pharmaceuticals USA Inc</abbr></span> | Last revised: 5 October 2015<meta itemprop="datePublished" content="2015-10-05">
+</div>
+<meta itemprop="image" content="http://medlibrary.org/lib/images-rx/epitol/00093009001.jpg"></header><meta itemprop="description" content="Page 5: Teva Pharmaceuticals USA Inc: Epitol (carbamazepine tablets USP) is indicated for use as an anticonvulsant drug. Evidence supporting efficacy of Epitol (carbamazepine tablets USP) as an anticonvulsant was derived from active drug-controlled studies that enrolled patients with...">
+<h3>Usage in Pregnancy<a id="i4i_pregnancy_id_714587c9-1025-49b9-be30-3383dd93c495"></a>
+</h3> <h4>Teratogenic Effects<a id="i4i_teratogenic_id_8457a072-33b8-4773-aee2-ce0ff3dae772"></a><a id="section-9.1.1"></a>
+</h4> <h5>Pregnancy Category D<a id="i4i_section_id_7d6ac495-755d-4048-a4f6-f2bf569862c6"></a><a id="section-9.1.1.1"></a>
+</h5> <p class="First ">(See <strong>WARNINGS</strong>.)</p>
+<h3>Labor and Delivery<a id="i4i_labour_delivery_id_83552131-ef1c-4651-8b63-e49031dbff55"></a><a id="section-9.2"></a>
+</h3> <p class="First ">The effect of carbamazepine on human labor and delivery is unknown.</p>
+<h3>Nursing Mothers<a id="i4i_nursing_mothers_id_dab9eab4-0279-4d48-8fb0-b201e66ac916"></a>
+</h3> <p class="First ">Carbamazepine and its epoxide metabolite are transferred to breast milk. The ratio of the concentration in breast milk to that in maternal plasma is about 0.4 for carbamazepine and about 0.5 for the epoxide. The estimated doses given to the newborn during breastfeeding are in the range of 2 to 5 mg daily for carbamazepine and 1 to 2 mg daily for the epoxide.</p>
+<aside id="ab1e" style="display:none"><ins class="adsbygoogle" data-ad-client="ca-pub-3862246084592963"></ins>
+</aside><p>Because of the potential for serious adverse reactions in nursing infants from carbamazepine, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.</p>
+<h3>Pediatric Use<a id="i4i_pediatric_use_id_d963855c-6910-4def-ba6d-4074cf4dd14f"></a><a id="section-9.4"></a>
+</h3> <p class="First ">Substantial evidence of carbamazepine’s effectiveness for use in the management of children with epilepsy (see<strong> INDICATIONS AND USAGE</strong> for specific seizure types) is derived from clinical investigations performed in adults and from studies in several <em>in vitro</em> systems which support the conclusion that (1) the pathogenetic mechanisms underlying seizure propagation are essentially identical in adults and children, and (2) the mechanism of action of carbamazepine in treating seizures is essentially identical in adults and children.</p>
+<p>Taken as a whole, this information supports a conclusion that the generally accepted therapeutic range of total carbamazepine in plasma (i.e., 4 to 12 mcg/mL) is the same in children and adults.</p>
+<p>The evidence assembled was primarily obtained from short-term use of carbamazepine. The safety of carbamazepine in children has been systematically studied up to 6 months. No longer-term data from clinical trials is available.</p>
+<h3>Geriatric Use<a id="i4i_geriatric_use_id_0d9f9b16-a185-4130-a136-6564e83a67ec"></a>
+</h3> <p class="First ">No systematic studies in geriatric patients have been conducted.</p>
+<h2>ADVERSE REACTIONS<a id="i4i_adverse_effects_id_68843ed0-526b-44c3-9e9b-79ec7449d0af"></a><a id="section-6"></a>
+</h2>
+<p class="First ">If adverse reactions are of such severity that the drug must be discontinued, the physician must be aware that abrupt discontinuation of any anticonvulsant drug in a responsive epileptic patient may lead to seizures or even status epilepticus with its life-threatening hazards.</p>
+<p>The most severe adverse reactions have been observed in the hemopoietic system and skin (see <strong>BOXED WARNING</strong>), the liver, and the cardiovascular system.</p>
+<p>The most frequently observed adverse reactions, particularly during the initial phases of therapy, are dizziness, drowsiness, unsteadiness, nausea, and vomiting. To minimize the possibility of such reactions, therapy should be initiated at the lowest dosage recommended.</p>
+<p>The following additional adverse reactions have been reported:</p>
+<aside id="ab2e" style="display:none"><ins class="adsbygoogle" data-ad-client="ca-pub-3862246084592963"></ins>
+</aside><p><span class="Bold "><em>Hemopoietic System:</em> </span> Aplastic anemia, agranulocytosis, pancytopenia, bone marrow depression, thrombocytopenia, leukopenia, leukocytosis, eosinophilia, acute intermittent porphyria, variegate porphyria, porphyria cutanea tarda.</p>
+<p><span class="Bold "><em>Skin:</em> </span> Toxic epidermal necrolysis (TEN) and Stevens-Johnson syndrome (SJS) (see <strong>BOXED WARNING</strong>), Acute Generalized Exanthematous Pustulosis (AGEP), pruritic and erythematous rashes, urticaria, photosensitivity reactions, alterations in skin pigmentation, exfoliative dermatitis, erythema multiforme and nodosum, purpura, aggravation of disseminated lupus erythematosus, alopecia, diaphoresis, onychomadesis, and hirsutism. In certain cases, discontinuation of therapy may be necessary. </p>
+<p><span class="Bold "><em>Cardiovascular System: </em> </span>Congestive heart failure, edema, aggravation of hypertension, hypotension, syncope and collapse, aggravation of coronary artery disease, arrhythmias and AV block, thrombophlebitis, thromboembolism (e.g., pulmonary embolism), and adenopathy or lymphadenopathy.</p>
+<p>Some of these cardiovascular complications have resulted in fatalities. Myocardial infarction has been associated with other tricyclic compounds.</p>
+<p><span class="Bold "><em>Liver:</em> </span> Abnormalities in liver function tests, cholestatic and hepatocellular jaundice, hepatitis, very rare cases of hepatic failure.</p>
+<p><span class="Bold "><em>Pancreatic: </em> </span>Pancreatitis.</p>
+<p><span class="Bold "><em>Respiratory System:</em> </span> Pulmonary hypersensitivity characterized by fever, dyspnea, pneumonitis, or pneumonia.</p>
+<p><span class="Bold "><em>Genitourinary System: </em> </span>Urinary frequency, acute urinary retention, oliguria with elevated blood pressure, azotemia, renal failure, and impotence. Albuminuria, glycosuria, elevated BUN, and microscopic deposits in the urine have also been reported. There have been rare reports of impaired male fertility and/or abnormal spermatogenesis.</p>
+<p>Testicular atrophy occurred in rats receiving carbamazepine orally from 4 to 52 weeks at dosage levels of 50 to 400 mg/kg/day. Additionally, rats receiving carbamazepine in the diet for 2 years at dosage levels of 25, 75, and 250 mg/kg/day had a dose-related incidence of testicular atrophy and aspermatogenesis. In dogs, it produced a brownish discoloration, presumably a metabolite, in the urinary bladder at dosage levels of 50 mg/kg and higher. Relevance of these findings to humans is unknown.</p>
+<p><span class="Bold "><em>Nervous System:</em> </span> Dizziness, drowsiness, disturbances of coordination, confusion, headache, fatigue, blurred vision, visual hallucinations, transient diplopia, oculomotor disturbances, nystagmus, speech disturbances, abnormal involuntary movements, peripheral neuritis and paresthesias, depression with agitation, talkativeness, tinnitus, hyperacusis, neuroleptic malignant syndrome.</p>
+<p>There have been reports of associated paralysis and other symptoms of cerebral arterial insufficiency, but the exact relationship of these reactions to the drug has not been established.</p>
+<p>Isolated cases of neuroleptic malignant syndrome have been reported both with and without concomitant use of psychotropic drugs.</p>
+<p><span class="Bold "><em>Digestive System:</em> </span> Nausea, vomiting, gastric distress and abdominal pain, diarrhea, constipation, anorexia, and dryness of the mouth and pharynx, including glossitis and stomatitis.</p>
+<p><span class="Bold "><em>Eyes:</em> </span> Scattered punctate cortical lens opacities, increased intraocular pressure (see <strong>WARNINGS</strong> , <strong>General</strong>) as well as conjunctivitis, have been reported. Although a direct causal relationship has not been established, many phenothiazines and related drugs have been shown to cause eye changes.</p>
+<p><span class="Bold "><em>Musculoskeletal System:</em> </span> Aching joints and muscles, and leg cramps.</p>
+<p><span class="Bold "><em>Metabolism: </em> </span>Fever and chills. Hyponatremia (see <strong>WARNINGS</strong> , <strong>General</strong>). Decreased levels of plasma calcium have been reported. Osteoporosis has been reported.</p>
+<p>Isolated cases of a lupus erythematosus-like syndrome have been reported. There have been occasional reports of elevated levels of cholesterol, HDL cholesterol, and triglycerides in patients taking anticonvulsants.</p>
+<p>A case of aseptic meningitis, accompanied by myoclonus and peripheral eosinophilia, has been reported in a patient taking carbamazepine in combination with other medications. The patient was successfully dechallenged, and the meningitis reappeared upon rechallenge with carbamazepine.</p>
+<h2>DRUG ABUSE AND DEPENDENCE<a id="i4i_abuse_dependence_id_12dc0f52-0071-424d-a90c-b8fa6bf5f3e4"></a>
+</h2>
+<p class="First ">No evidence of abuse potential has been associated with carbamazepine, nor is there evidence of psychological or physical dependence in humans.</p>
+<h2>OVERDOSAGE<a id="i4i_overdosage_id_ae607463-50ad-49fc-a53a-b89273fbebd3"></a><a id="section-10"></a>
+</h2> <h3>Acute Toxicity<a id="i4i_section_id_3cae5540-f403-4064-a137-32c621c7073e"></a><a id="section-10.1"></a>
+</h3> <p class="First ">Lowest known lethal dose: adults, 3.2 g (a 24-year-old woman died of a cardiac arrest and a 24-year-old man died of pneumonia and hypoxic encephalopathy); children, 4 g (a 14-year-old girl died of a cardiac arrest), 1.6 g (a 3-year-old girl died of aspiration pneumonia).</p>
+<p>Oral LD<sub>50</sub> in animals (mg/kg): mice, 1100 to 3750; rats, 3850 to 4025; rabbits, 1500 to 2680; guinea pigs, 920.</p>
+<h3>Signs and Symptoms<a id="i4i_section_id_97e17177-e4ca-4350-bd72-452dad2ee241"></a><a id="section-10.2"></a>
+</h3> <p class="First ">The first signs and symptoms appear after 1 to 3 hours. Neuromuscular disturbances are the most prominent. Cardiovascular disorders are generally milder, and severe cardiac complications occur only when very high doses (greater than 60 g) have been ingested.</p>
+<p><span class="Bold "><em>Respiration:</em> </span> Irregular breathing, respiratory depression.</p>
+<p><span class="Bold "><em>Cardiovascular System:</em> </span> Tachycardia, hypotension or hypertension, shock, conduction disorders.</p>
+<p><span class="Bold "><em>Nervous System and Muscles:</em> </span> Impairment of consciousness ranging in severity to deep coma. Convulsions, especially in small children. Motor restlessness, muscular twitching, tremor, athetoid movements, opisthotonos, ataxia, drowsiness, dizziness, mydriasis, nystagmus, adiadochokinesia, ballism, psychomotor disturbances, dysmetria. Initial hyperreflexia, followed by hyporeflexia.</p>
+<p><span class="Bold "><em>Gastrointestinal Tract:</em> </span> Nausea, vomiting.</p>
+<p><span class="Bold "><em>Kidneys and Bladder:</em> </span> Anuria or oliguria, urinary retention.</p>
+<p><span class="Bold "><em>Laboratory Findings: </em> </span>Isolated instances of overdosage have included leukocytosis, reduced leukocyte count, glycosuria, and acetonuria. EEG may show dysrhythmias.</p>
+<p><span class="Bold "><em>Combined Poisoning:</em> </span> When alcohol, tricyclic antidepressants, barbiturates, or hydantoins are taken at the same time, the signs and symptoms of acute poisoning with carbamazepine may be aggravated or modified.</p>
+
+<footer><div class="wp-pagenavi">
+<span class="pages">Page 5 of 8</span>  <a href="//medlibrary.org/lib/rx/meds/epitol/" class="first">« First Page</a> <a href="//medlibrary.org/lib/rx/meds/epitol/page/4/">«</a> <span class="extend">…</span> <a href="//medlibrary.org/lib/rx/meds/epitol/page/3/" class="page smaller">3</a> <a href="//medlibrary.org/lib/rx/meds/epitol/page/4/" class="page smaller">4</a> <span class="current">5</span>  <a href="//medlibrary.org/lib/rx/meds/epitol/page/6/" class="page larger">6</a> <a href="//medlibrary.org/lib/rx/meds/epitol/page/7/" class="page larger">7</a> <span class="extend">…</span>  <a href="//medlibrary.org/lib/rx/meds/epitol/page/6/">»</a> <a href="//medlibrary.org/lib/rx/meds/epitol/page/8/" class="last">Last Page »</a> </div>
+<aside id="abre" style="display:none"><ins class="adsbygoogle" data-ad-client="ca-pub-3862246084592963"></ins>
+</aside><div class="reviewnote lightlinks">
+<p>All MedLibrary.org resources are included in as near-original form as possible, meaning that the information from the original provider has been rendered here with only typographical or stylistic modifications and not with any substantive alterations of content, meaning or intent.</p>
+<p>The URL of this page is:<br><a href="http://medlibrary.org/lib/rx/meds/epitol/page/5/" rel="bookmark">http://medlibrary.org/lib/rx/meds/epitol/page/5/</a></p>
+</div>
+</footer></article>6-----------------------------------------------------------<article><header><meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+<h1 itemprop="headline name">Epitol (Page 6 of 8)</h1>
+<div class="byline entry-meta lightlinks">By <span itemprop="author" class="author vcard"><abbr class="fn" title="Teva Pharmaceuticals USA Inc">Teva Pharmaceuticals USA Inc</abbr></span> | Last revised: 5 October 2015<meta itemprop="datePublished" content="2015-10-05">
+</div>
+<meta itemprop="image" content="http://medlibrary.org/lib/images-rx/epitol/00093009001.jpg"></header><meta itemprop="description" content="Page 6: Teva Pharmaceuticals USA Inc: Epitol (carbamazepine tablets USP) is indicated for use as an anticonvulsant drug. Evidence supporting efficacy of Epitol (carbamazepine tablets USP) as an anticonvulsant was derived from active drug-controlled studies that enrolled patients with...">
+<h3>Treatment<a id="i4i_section_id_46ea45b2-5182-4b05-9682-0e917e08866e"></a><a id="section-10.3"></a>
+</h3> <p class="First ">The prognosis in cases of severe poisoning is critically dependent upon prompt elimination of the drug, which may be achieved by inducing vomiting, irrigating the stomach, and by taking appropriate steps to diminish absorption. If these measures cannot be implemented without risk on the spot, the patient should be transferred at once to a hospital, while ensuring that vital functions are safeguarded. There is no specific antidote.</p>
+<p><span class="Bold "><em>Elimination of the Drug:</em> </span> Induction of vomiting.</p>
+<p>Gastric lavage. Even when more than 4 hours have elapsed following ingestion of the drug, the stomach should be repeatedly irrigated, especially if the patient has also consumed alcohol.</p>
+<aside id="ab1e" style="display:none"><ins class="adsbygoogle" data-ad-client="ca-pub-3862246084592963"></ins>
+</aside><p><span class="Bold "><em>Measures to Reduce Absorption:</em> </span> Activated charcoal, laxatives.</p>
+<p><span class="Bold "><em>Measures to Accelerate Elimination:</em> </span> Forced diuresis.</p>
+<p>Dialysis is indicated only in severe poisoning associated with renal failure. Replacement transfusion is indicated in severe poisoning in small children.</p>
+<p><span class="Bold "><em>Respiratory Depression:</em> </span> Keep the airways free; resort, if necessary, to endotracheal intubation, artificial respiration, and administration of oxygen.</p>
+<p><span class="Bold "><em>Hypotension, Shock:</em> </span> Keep the patient’s legs raised and administer a plasma expander. If blood pressure fails to rise despite measures taken to increase plasma volume, use of vasoactive substances should be considered.</p>
+<p><span class="Bold "><em>Convulsions:</em> </span> Diazepam or barbiturates.</p>
+<p><span class="Bold "><em>Warning:</em> </span> Diazepam or barbiturates may aggravate respiratory depression (especially in children), hypotension, and coma. However, barbiturates should <span class="Underline ">not</span> be used if drugs that inhibit monoamine oxidase have also been taken by the patient either in overdosage or in recent therapy (within 1 week).</p>
+<p><span class="Bold "><em>Surveillance:</em> </span> Respiration, cardiac function (ECG monitoring), blood pressure, body temperature, pupillary reflexes, and kidney and bladder function should be monitored for several days.</p>
+<p><span class="Bold "><em>Treatment of Blood Count Abnormalities:</em> </span> If evidence of significant bone marrow depression develops, the following recommendations are suggested: (1) stop the drug, (2) perform daily CBC, platelet, and reticulocyte counts, (3) do a bone marrow aspiration and trephine biopsy immediately and repeat with sufficient frequency to monitor recovery.</p>
+<p>Special periodic studies might be helpful as follows: (1) white cell and platelet antibodies, (2) <sup>59</sup> Fe-ferrokinetic studies, (3) peripheral blood cell typing, (4) cytogenetic studies on marrow and peripheral blood, (5) bone marrow culture studies for colony-forming units, (6) hemoglobin electrophoresis for A<sub>2</sub> and F hemoglobin, and (7) serum folic acid and B<sub>12</sub> levels.</p>
+<p>A fully developed aplastic anemia will require appropriate, intensive monitoring and therapy, for which specialized consultation should be sought.</p>
+<h2>DOSAGE AND ADMINISTRATION<a id="i4i_dosage_admin_id_2aba776c-bed2-4d06-9b4c-007f0a55517f"></a>
 </h2>
 <aside id="ab2e" style="display:none"><ins class="adsbygoogle" data-ad-client="ca-pub-3862246084592963"></ins>
-</aside><p class="First ">A-Hydrocort sterile powder is available in the following package:</p>
-<table style="width:auto; max-width:99% !important;"><tbody class="Headless ">
+</aside><p class="First ">(<strong>SEE TABLE BELOW</strong>)</p>
+<p>Monitoring of blood levels has increased the efficacy and safety of anticonvulsants (see <strong>PRECAUTIONS</strong> , <strong>Laboratory Tests</strong>). Dosage should be adjusted to the needs of the individual patient. A low initial daily dosage with a gradual increase is advised. As soon as adequate control is achieved, the dosage may be reduced very gradually to the minimum effective level. Medication should be taken with meals.</p>
+<p>Conversion of patients from oral Epitol<sup>®</sup> tablets to carbamazepine suspension: Patients should be converted by administering the same number of mg per day in smaller, more frequent doses (i.e., b.i.d. tablets to t.i.d. suspension).</p>
+<h3>Epilepsy<a id="i4i_section_id_1b29c633-bd5f-491c-aa81-176412005a66"></a><a id="section-2.1"></a>
+</h3> <p class="First ">(See <strong>INDICATIONS  AND  USAGE</strong>)</p>
+<h4>Adults and Children Over 12 Years of Age<a id="i4i_section_id_e37d30ec-528c-4a0e-8c99-24ba46304ee8"></a><a id="section-2.1.1"></a>
+</h4> <p class="First "><span class="Bold "><em>Initial: </em> </span>200 mg b.i.d. Increase at weekly intervals by adding up to 200 mg/day using a t.i.d. or q.i.d. regimen until the optimal response is obtained. Dosage generally should not exceed 1000 mg daily in children 12 to 15 years of age, and 1200 mg daily in patients above 15 years of age. Doses up to 1600 mg daily have been used in adults in rare instances. <span class="Bold "><em>Maintenance:</em> </span> Adjust dosage to the minimum effective level, usually 800 to 1200 mg daily.</p>
+<h4>Children 6 to 12 Years of Age<a id="i4i_section_id_127927d7-5d85-4e03-a2ca-b99d0acb6444"></a><a id="section-2.1.2"></a>
+</h4> <p class="First "><span class="Bold "><em>Initial:</em> </span> 100 mg b.i.d. Increase at weekly intervals by adding up to 100 mg/day using a t.i.d. or q.i.d. regimen until the optimal response is obtained. Dosage generally should not exceed 1000 mg daily. <span class="Bold "><em>Maintenance: </em> </span>Adjust dosage to the minimum effective level, usually 400 to 800 mg daily.</p>
+<h4>Children Under 6 Years of Age<a id="i4i_section_id_1dcca389-df33-40b4-b142-f9d0e70ae7d4"></a><a id="section-2.1.3"></a>
+</h4> <p class="First "><span class="Bold "><em>Initial:</em> </span> 10 to 20 mg/kg/day b.i.d. or t.i.d. Increase weekly to achieve optimal clinical response administered t.i.d. or q.i.d. <span class="Bold "><em>Maintenance: </em> </span>Ordinarily, optimal clinical response is achieved at daily doses below 35 mg/kg. If satisfactory clinical response has not been achieved, plasma levels should be measured to determine whether or not they are in the therapeutic range. No recommendation regarding the safety of carbamazepine for use at doses above 35 mg/kg/24 hours can be made.</p>
+<h4>Combination Therapy<a id="i4i_section_id_371bd2f5-25ec-45bc-82b9-15b5b27b0a36"></a><a id="section-2.1.4"></a>
+</h4> <p class="First ">Epitol (carbamazepine tablets) may be used alone or with other anticonvulsants. When added to existing anticonvulsant therapy, the drug should be added gradually while the other anticonvulsants are maintained or gradually decreased, except phenytoin, which may have to be increased (see<strong> PRECAUTIONS, Drug Interactions</strong> , and <span class="Bold ">Usage in Pregnancy, <em>Teratogenic Effects</em> , </span><span class="Underline ">Pregnancy Category D</span>).</p>
+<h3>Trigeminal Neuralgia<a id="i4i_section_id_5436d8c8-2ede-45d2-8e28-af00088a914c"></a><a id="section-2.2"></a>
+</h3> <p class="First ">(See <strong>INDICATIONS AND USAGE</strong>)</p>
+<p><span class="Bold "><em>Initial: </em> </span>On the first day, 100 mg b.i.d. for a total daily dose of 200 mg. This daily dose may be increased by up to 200 mg/day using increments of 100 mg every 12 hours only as needed to achieve freedom from pain. Do not exceed 1200 mg daily. <span class="Bold "><em>Maintenance:</em> </span> Control of pain can be maintained in most patients with 400 to 800 mg daily. However, some patients may be maintained on as little as 200 mg daily, while others may require as much as 1200 mg daily. At least once every 3 months throughout the treatment period, attempts should be made to reduce the dose to the minimum effective level or even to discontinue the drug.</p>
+<div><a id="_Refid_487ab4f4-de3b-425d-a5e3-d21587d1b"></a></div> <table width="95%" style="font-size:80%">
+<caption> <span>Dosage Information</span> </caption> <col width="16%">
+<col width="17%">
+<col width="26%">
+<col width="40%">
+<tfoot><tr>
+<td colspan="4" style="text-align:left"> <dl class="Footnote">
+<dt> <a href="#footnote-reference-1" id="footnote-1">*</a> </dt> <dd>Tablet = Chewable or conventional tablets</dd> </dl>
+</td> </tr></tfoot>
+<tbody class="Headless ">
 <tr class="First ">
-<td class="Botrule Lrule Rrule Toprule "> <p class="First "> <span class="Bold "> <span class="Emphasis ">NDC</span> </span> </p>
-</td> <td class="Botrule Lrule Rrule Toprule "> <p class="First "> <span class="Bold "> <span class="Emphasis ">Container </span> </span> </p>
-</td> <td class="Botrule Lrule Rrule Toprule "> <p class="First "> <span class="Bold "> <span class="Emphasis ">Concentration </span> </span> </p>
+<td class="Botrule Lrule Toprule " valign="middle"></td> <td class="Botrule Toprule " style="text-align:center" valign="middle"> <p class="First ">Initial Dose</p>
+</td> <td class="Botrule Toprule " style="text-align:center" valign="middle"> <p class="First ">Subsequent Dose</p>
+</td> <td class="Botrule Rrule Toprule " style="text-align:center" valign="middle"> <p class="First ">Maximum Daily Dose</p>
+</td> </tr>
+<tr>
+<td class="Botrule Lrule " style="text-align:center" valign="middle"> <p class="First ">Indication</p>
+</td> <td class="Botrule " valign="middle"> <p class="First ">       Tablet <a href="#footnote-1" class="Sup" id="footnote-reference-1">*</a></p>
+</td> <td class="Botrule " style="text-align:center" valign="middle"> <p class="First ">Tablet <a href="#footnote-1" class="Sup">*</a></p>
+</td> <td class="Botrule Rrule " valign="middle"> <p class="First ">                           Tablet <a href="#footnote-1" class="Sup">*</a></p>
+</td> </tr>
+<tr>
+<td class="Botrule Lrule " valign="bottom"> <p class="First "> <strong>Epilepsy</strong> </p>
+</td> <td class="Botrule " valign="middle"></td> <td class="Botrule " valign="middle"></td> <td class="Botrule Rrule " valign="middle"></td> </tr>
+<tr>
+<td class="Botrule Lrule "> <p class="First ">Under 6 yr</p>
+</td> <td class="Botrule " style="text-align:center"> <p class="First ">10 to 20 mg/kg/day b.i.d. or t.i.d.</p>
+</td> <td class="Botrule " style="text-align:center"> <p class="First ">Increase weekly to achieve optimal clinical response, t.i.d. or q.i.d.</p>
+</td> <td class="Botrule Rrule " style="text-align:center"> <p class="First ">35 mg/kg/24 hr (see <strong>DOSAGE AND ADMINISTRATION</strong> section above)</p>
+</td> </tr>
+<tr>
+<td class="Botrule Lrule "> <p class="First ">6 to 12 yr</p>
+</td> <td class="Botrule " style="text-align:center"> <p class="First ">100 mg b.i.d. (200 mg/day)</p>
+</td> <td class="Botrule " style="text-align:center"> <p class="First ">Add up to 100 mg/day at weekly intervals, t.i.d. or q.i.d.</p>
+</td> <td class="Botrule Rrule " style="text-align:center"> <p class="First ">1000 mg/24 hr</p>
+</td> </tr>
+<tr>
+<td class="Botrule Lrule "> <p class="First ">Over 12 yr</p>
+</td> <td class="Botrule " style="text-align:center"> <p class="First ">200 mg b.i.d. (400 mg/day)</p>
+</td> <td class="Botrule " style="text-align:center"> <p class="First ">Add up to 200 mg/day at weekly intervals, t.i.d. or q.i.d.</p>
+</td> <td class="Botrule Rrule " style="text-align:center"> <p class="First ">1000 mg/24 hr (12 to 15 yr) 1200 mg/24 hr (&gt; 15 yr) 1600 mg/24 hr (adults, in rare instances)</p>
 </td> </tr>
 <tr class="Last ">
-<td class="Botrule Lrule Rrule Toprule "> <p class="First ">0409-4856-15</p>
-</td> <td class="Botrule Lrule Rrule Toprule ">Single-Dose Vial</td> <td class="Botrule Lrule Rrule Toprule "> <p class="First ">100 mg</p>
+<td class="Botrule Lrule "> <p class="First "> <strong>Trigeminal Neuralgia</strong> </p>
+</td> <td class="Botrule " style="text-align:center"> <p class="First ">100 mg b.i.d. (200 mg/day)</p>
+</td> <td class="Botrule " style="text-align:center"> <p class="First ">Add up to 200 mg/day in increments of 100 mg every 12 hr</p>
+</td> <td class="Botrule Rrule " style="text-align:center"> <p class="First ">1200 mg/24 hr</p>
 </td> </tr>
-</tbody></table>
-<p> <span class="Bold "> <span class="Emphasis ">STORAGE CONDITIONS</span> </span> </p>
-<p>Store unreconstituted product at 20 to 25°C (68 to 77°F). [See USP Controlled Room Temperature.]</p>
-<p>Store solution at 20 to 25°C (68 to 77°F). [See USP Controlled Room Temperature.] Protect from light.</p>
-<p>Use solution only if it is clear. Unused solution should be discarded after 3 days.</p>
-<p>Lyophilized in container.</p>
-<p>Revised: April, 2008</p>
-<table style="width:auto; max-width:99% !important;"><tbody class="Headless ">
-<tr class="First ">
-<td class="Botrule Lrule Rrule Toprule "> <p class="First ">Printed in USA</p>
-</td> <td class="Botrule Lrule Rrule Toprule " colspan="2" style="text-align:center"> <p class="First ">EN-1768</p>
-</td> </tr>
-<tr class="Last ">
-<td class="Botrule Lrule Rrule Toprule " colspan="3"> <p class="First ">Hospira, Inc., Lake Forest, IL 60045 USA</p>
-</td> </tr>
-</tbody></table>
-<h2>RL-2526<a id="e632e32d-561d-483e-bff8-af8351c6ce04"></a>
-</h2>
-<div class="post_image" style="width:300px"> <div class="post_image_img"> <a href="img/a-hydrocort-for-injection-usp1-figure-2-jrl-2526-300x99.jpg"><img alt="label ndc 0409-4856-15" src="img/a-hydrocort-for-injection-usp1-figure-2-jrl-2526-300x99.jpg"></a> </div>
-<div class="post_image_attr"> <a href="img/a-hydrocort-for-injection-usp1-figure-2-jrl-2526-300x99.jpg">(click image for full-size original)</a> </div>
+</tbody>
+</table>
+<footer><div class="wp-pagenavi">
+<span class="pages">Page 6 of 8</span>  <a href="//medlibrary.org/lib/rx/meds/epitol/" class="first">« First Page</a> <a href="//medlibrary.org/lib/rx/meds/epitol/page/5/">«</a> <span class="extend">…</span> <a href="//medlibrary.org/lib/rx/meds/epitol/page/4/" class="page smaller">4</a> <a href="//medlibrary.org/lib/rx/meds/epitol/page/5/" class="page smaller">5</a> <span class="current">6</span>  <a href="//medlibrary.org/lib/rx/meds/epitol/page/7/" class="page larger">7</a> <a href="//medlibrary.org/lib/rx/meds/epitol/page/8/" class="page larger">8</a> <a href="//medlibrary.org/lib/rx/meds/epitol/page/7/">»</a> </div>
+<aside id="abre" style="display:none"><ins class="adsbygoogle" data-ad-client="ca-pub-3862246084592963"></ins>
+</aside><div class="reviewnote lightlinks">
+<p>All MedLibrary.org resources are included in as near-original form as possible, meaning that the information from the original provider has been rendered here with only typographical or stylistic modifications and not with any substantive alterations of content, meaning or intent.</p>
+<p>The URL of this page is:<br><a href="http://medlibrary.org/lib/rx/meds/epitol/page/6/" rel="bookmark">http://medlibrary.org/lib/rx/meds/epitol/page/6/</a></p>
 </div>
+</footer></article>7-----------------------------------------------------------<article><header><meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+<h1 itemprop="headline name">Epitol (Page 7 of 8)</h1>
+<div class="byline entry-meta lightlinks">By <span itemprop="author" class="author vcard"><abbr class="fn" title="Teva Pharmaceuticals USA Inc">Teva Pharmaceuticals USA Inc</abbr></span> | Last revised: 5 October 2015<meta itemprop="datePublished" content="2015-10-05">
+</div>
+<meta itemprop="image" content="http://medlibrary.org/lib/images-rx/epitol/00093009001.jpg"></header><meta itemprop="description" content="Page 7: Teva Pharmaceuticals USA Inc: Epitol (carbamazepine tablets USP) is indicated for use as an anticonvulsant drug. Evidence supporting efficacy of Epitol (carbamazepine tablets USP) as an anticonvulsant was derived from active drug-controlled studies that enrolled patients with...">
+<h2>HOW SUPPLIED<a id="i4i_how_supplied_id_bbca3319-667f-4636-b2fa-16e5e0572581"></a><a id="section-16"></a>
+</h2>
+<p class="First ">Epitol<sup>®</sup> (carbamazepine tablets USP) 200 mg is available as round, white, single-scored tablets, debossed “EPITOL”/“93” — “93”.</p>
+<p>Supplied in bottles of 100. NDC 0093-0090-01.</p>
+<p>Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].</p>
+<p>Protect from moisture. Store in a dry place.</p>
+<p>Dispense in a tight container, preferably glass, as defined in the USP.</p>
+<p>Dispense in a container labeled: Store in a dry place. Protect from moisture.</p>
+<p>KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.</p>
+<p>Manufactured In Israel By:</p>
+<p> <strong>TEVA PHARMACEUTICAL IND. LTD.</strong> </p>
+<aside id="ab1e" style="display:none"><ins class="adsbygoogle" data-ad-client="ca-pub-3862246084592963"></ins>
+</aside><p>Jerusalem, 9777402, Israel</p>
+<p>Manufactured For:</p>
+<p> <strong>TEVA PHARMACEUTICALS USA, INC.</strong> </p>
+<p>North Wales, PA 19454</p>
+<p>Rev. AL 9/2015</p>
+<h2>MEDICATION GUIDE<a id="i4i_medguide_id_d27ed436-8696-4723-b2a9-4de227f0d832"></a><a id="section-15"></a>
+</h2>
+<p class="First "> <span class="Bold ">Epitol<sup>®</sup> (EP-ih-tall)</span> </p>
+<p> <strong>(carbamazepine tablets USP) </strong> <br><strong>(kar-bah-MAZ-eh-peen)</strong> </p>
+<p> <strong>Rx only</strong> </p>
+<p>Read this Medication Guide before you start taking Epitol and each time you get a refill. There may be new information. This information does not take the place of talking to your healthcare provider about your medical condition or treatment. </p>
+<p> <strong>What is the most important information I should know about Epitol? </strong> </p>
+<p> <strong>Do not stop taking Epitol without first talking to your healthcare provider.</strong> </p>
+<p>Stopping Epitol suddenly can cause serious problems. </p>
+<p> <strong>Epitol can cause serious side effects, including: </strong> </p>
+<p> <strong>1. Epitol may cause rare but serious skin rashes that may lead to death. These serious skin reactions are more likely to happen when you begin taking Epitol within the first four months of treatment but may occur at later times. These reactions can happen in anyone, but are more likely in people of Asian descent. If you are of Asian descent, you may need a genetic blood test before you take Epitol to see if you are at a higher risk for serious skin reactions with this medicine. Symptoms may include: </strong> </p>
+<dl>
+<dt style="float:left">•</dt> <dd>skin rash</dd> <dt style="float:left">•</dt> <dd>hives</dd> <dt style="float:left">•</dt> <dd>sores in your mouth</dd> <dt style="float:left">•</dt> <dd>blistering or peeling of the skin</dd> </dl>
+<p> <strong>2. Epitol may cause rare but serious blood problems. Symptoms may include: </strong> </p>
+<dl>
+<dt style="float:left">•</dt> <dd>fever, sore throat or other infections that come and go or do not go away </dd> <dt style="float:left">•</dt> <dd>easy bruising </dd> <dt style="float:left">•</dt> <dd>red or purple spots on your body </dd> <dt style="float:left">•</dt> <dd>bleeding gums or nose bleeds </dd> <dt style="float:left">•</dt> <dd>severe fatigue or weakness</dd> </dl>
+<p> <strong>3. Like other antiepileptic drugs, Epitol may cause suicidal thoughts or actions in a very small number of people, about 1 in 500. </strong> </p>
+<aside id="ab2e" style="display:none"><ins class="adsbygoogle" data-ad-client="ca-pub-3862246084592963"></ins>
+</aside><p> <strong>Call your healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:</strong> </p>
+<dl>
+<dt style="float:left">•</dt> <dd>thoughts about suicide or dying</dd> <dt style="float:left">•</dt> <dd>attempts to commit suicide</dd> <dt style="float:left">•</dt> <dd>new or worse depression</dd> <dt style="float:left">•</dt> <dd>new or worse anxiety</dd> <dt style="float:left">•</dt> <dd>feeling agitated or restless</dd> <dt style="float:left">•</dt> <dd>panic attacks</dd> <dt style="float:left">•</dt> <dd>trouble sleeping (insomnia)</dd> <dt style="float:left">•</dt> <dd>new or worse irritability</dd> <dt style="float:left">•</dt> <dd>acting aggressive, being angry, or violent</dd> <dt style="float:left">•</dt> <dd>acting on dangerous impulses</dd> <dt style="float:left">•</dt> <dd>an extreme increase in activity and talking (mania)</dd> <dt style="float:left">•</dt> <dd>other unusual changes in behavior or mood</dd> </dl>
+<p> <strong>How can I watch for early symptoms of suicidal thoughts and actions? </strong> </p>
+<dl>
+<dt style="float:left">•</dt> <dd>Pay attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.</dd> <dt style="float:left">•</dt> <dd>Keep all follow-up visits with your healthcare provider as scheduled.</dd> </dl>
+<p>Call your healthcare provider between visits as needed, especially if you are worried about symptoms.</p>
+<p> <strong>Do not stop Epitol without first talking to a healthcare provider. </strong> </p>
+<p>Stopping Epitol suddenly can cause serious problems. You should talk to your healthcare provider before stopping. </p>
+<p>Suicidal thoughts or actions can be caused by things other than medicines. If you have suicidal thoughts or actions, your healthcare provider may check for other causes.</p>
+<p> <strong>What is Epitol? </strong> </p>
+<p>Epitol is a prescription medicine used to treat: </p>
+<dl>
+<dt style="float:left">•</dt> <dd>certain types of seizures (partial, tonic-clonic, mixed) </dd> <dt style="float:left">•</dt> <dd>certain types of nerve pain (trigeminal and glossopharyngeal neuralgia) </dd> </dl>
+<p>Epitol is not a regular pain medicine and should not be used for aches or pains.</p>
+<p> <strong>Who should not take Epitol? </strong> </p>
+<p> <strong>Do not take Epitol if you:</strong> </p>
+<dl>
+<dt style="float:left">•</dt> <dd>have a history of bone marrow depression. </dd> <dt style="float:left">•</dt> <dd>are allergic to carbamazepine or any of the ingredients in Epitol. See the end of this Medication Guide for a complete list of ingredients in Epitol. </dd> <dt style="float:left">•</dt> <dd>take nefazodone. </dd> <dt style="float:left">•</dt> <dd>are allergic to medicines called tricyclic antidepressants (TCAs). Ask your healthcare provider or pharmacist for a list of these medicines if you are not sure. </dd> <dt style="float:left">•</dt> <dd>have taken a medicine called a Monoamine Oxidase Inhibitor (MAOI) in the last 14 days. Ask your healthcare provider or pharmacist for a list of these medicines if you are not sure.</dd> </dl>
+<p> <strong>What should I tell my healthcare provider before taking Epitol? </strong> </p>
+<p> <strong>Before you take Epitol, tell your healthcare provider if you: </strong> </p>
+<dl>
+<dt style="float:left">•</dt> <dd>have or have had suicidal thoughts or actions, depression or mood problems</dd> <dt style="float:left">•</dt> <dd>have or ever had heart problems</dd> <dt style="float:left">•</dt> <dd>have or ever had blood problems</dd> <dt style="float:left">•</dt> <dd>have or ever had liver problems</dd> <dt style="float:left">•</dt> <dd>have or ever had kidney problems</dd> <dt style="float:left">•</dt> <dd>have or ever had allergic reactions to medicines</dd> <dt style="float:left">•</dt> <dd>have or ever had increased pressure in your eye</dd> <dt style="float:left">•</dt> <dd>have any other medical conditions</dd> <dt style="float:left">•</dt> <dd>drink grapefruit juice or eat grapefruit</dd> <dt style="float:left">•</dt> <dd>use birth control. Epitol  may make your birth control less effective. Tell your healthcare provider if your menstrual bleeding changes while you take birth control and Epitol.</dd> <dt style="float:left">•</dt> <dd>are pregnant or plan to become pregnant. Epitol may harm your unborn baby. Tell your healthcare provider right away if you become pregnant while taking Epitol. You and your healthcare provider should decide if you should take Epitol while you are pregnant.<dl>
+<dt style="float:left">•</dt>
+<dd>If you become pregnant while taking Epitol, talk to your healthcare provider about registering with the North American Antiepileptic Drug (NAAED) Pregnancy Registry. The purpose of this registry is to collect information about the safety of antiepileptic medicine during pregnancy. You can enroll in this registry by calling 1-888-233-2334.</dd>
+</dl>
+</dd> <dt style="float:left">•</dt> <dd>are breastfeeding or plan to breastfeed. Epitol passes into breast milk. You and your healthcare provider should discuss whether you should take Epitol or breastfeed; you should not do both.</dd> </dl>
+<p><strong>Tell your healthcare provider about all the medicines you take</strong> , including prescription and non-prescription medicines, vitamins, and herbal supplements. </p>
+<p>Taking Epitol with certain other medicines may cause side effects or affect how well they work. Do not start or stop other medicines without talking to your healthcare provider. </p>
+<p>Know the medicines you take. Keep a list of them and show it to your healthcare provider and pharmacist when you get a new medicine. </p>
+<p> <strong>How should I take Epitol? </strong> </p>
+<dl>
+<dt style="float:left">•</dt> <dd>Do not stop taking Epitol without first talking to your healthcare provider. Stopping Epitol suddenly can cause serious problems. Stopping seizure medicine suddenly in a patient who has epilepsy may cause seizures that will not stop (status epilepticus).</dd> <dt style="float:left">•</dt> <dd>Take Epitol exactly as prescribed. Your healthcare provider will tell you how much Epitol to take.</dd> <dt style="float:left">•</dt> <dd>Your healthcare provider may change your dose. Do not change your dose of Epitol without talking to your healthcare provider.</dd> <dt style="float:left">•</dt> <dd>Take Epitol with food.</dd> <dt style="float:left">•</dt> <dd>If you take too much Epitol, call your healthcare provider or local Poison Control Center right away.</dd> </dl>
+<p> <strong>What should I avoid while taking Epitol? </strong> </p>
+<dl>
+<dt style="float:left">•</dt> <dd>Do not drink alcohol or take other drugs that make you sleepy or dizzy while taking Epitol until you talk to your healthcare provider. Epitol taken with alcohol or drugs that cause sleepiness or dizziness may make your sleepiness or dizziness worse. </dd> <dt style="float:left">•</dt> <dd>Do not drive, operate heavy machinery, or do other dangerous activities until you know how Epitol affects you. Epitol may slow your thinking and motor skills.</dd> </dl>
+<p> <strong>What are the possible side effects of Epitol? </strong> </p>
+<p>See “<strong>What is the most important information I should know about Epitol?</strong> ”</p>
+<p>Epitol may cause other serious side effects. These include: </p>
+<dl>
+<dt style="float:left">•</dt> <dd>Irregular heartbeat — symptoms include: <dl>
+<dt style="float:left">•</dt>
+<dd>Fast, slow, or pounding heartbeat</dd>
+<dt style="float:left">•</dt>
+<dd>Shortness of breath </dd>
+<dt style="float:left">•</dt>
+<dd>Feeling lightheaded </dd>
+<dt style="float:left">•</dt>
+<dd>Fainting </dd>
+</dl>
+</dd> <dt style="float:left">•</dt> <dd>Liver problems — symptoms include: <dl>
+<dt style="float:left">•</dt>
+<dd>yellowing of your skin or the whites of your eyes </dd>
+<dt style="float:left">•</dt>
+<dd>dark urine </dd>
+<dt style="float:left">•</dt>
+<dd>pain on the right side of your stomach area (abdominal pain) </dd>
+<dt style="float:left">•</dt>
+<dd>easy bruising </dd>
+<dt style="float:left">•</dt>
+<dd>loss of appetite </dd>
+<dt style="float:left">•</dt>
+<dd>nausea or vomiting</dd>
+</dl>
+</dd> </dl>
+<p> <strong>Get medical help right away if you have any of the symptoms listed above or listed in “What is the most important information I should know about Epitol”. </strong> </p>
+<p> <strong>The most common side effects of Epitol include: </strong> </p>
+<dl>
+<dt style="float:left">•</dt> <dd>dizziness</dd> <dt style="float:left">•</dt> <dd>drowsiness</dd> <dt style="float:left">•</dt> <dd>problems with walking and coordination (unsteadiness)</dd> <dt style="float:left">•</dt> <dd>nausea</dd> <dt style="float:left">•</dt> <dd>vomiting</dd> </dl>
+<p>These are not all the possible side effects of Epitol. For more information, ask your healthcare provider or pharmacist.</p>
+<p>Tell your healthcare provider if you have any side effect that bothers you or that does not go away.</p>
+<p> <strong>Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088.</strong> </p>
+<p> <strong>How should I store Epitol?</strong> </p>
+<dl>
+<dt style="float:left">•</dt> <dd>Store <strong>Epitol</strong> at 20° to 25°C (68° to 77°F).<dl>
+<dt style="float:left">•</dt>
+<dd>Keep Epitol dry.</dd>
+</dl>
+</dd> </dl>
+<p> <strong>Keep Epitol and all medicines out of the reach of children.</strong> </p>
+<p> <strong>General Information about Epitol</strong> </p>
+<p>Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide. Do not use Epitol for a condition for which it was not prescribed. Do not give Epitol to other people, even if they have the same symptoms that you have. It may harm them. </p>
+<p>This Medication Guide summarizes the most important information about Epitol. If you would like more information, talk with your healthcare provider. You can ask your pharmacist or healthcare provider for the full prescribing information about Epitol that is written for health professionals<em>.</em> </p>
+<p>For more information, call 1-888-838-2872.</p>
+<p> <strong>What are the ingredients in Epitol?</strong> </p>
+<p>Active ingredient: carbamazepine </p>
+<p>Inactive ingredients: </p>
+<dl>
+<dt style="float:left">•</dt> <dd>
+<strong>Epitol:</strong> colloidal silicon dioxide, croscarmellose sodium, ethylcellulose, glycerin, lactose monohydrate, magnesium stearate, and sodium starch glycolate.</dd> </dl>
+<p>This Medication Guide has been approved by the U.S. Food and Drug Administration.</p>
+<p>Manufactured In Israel By:</p>
+<p> <strong>TEVA PHARMACEUTICAL IND. LTD.</strong> </p>
+<p>Jerusalem, 9777402, Israel</p>
+<p>Manufactured For:</p>
+<p> <strong>TEVA PHARMACEUTICALS USA, INC.</strong> </p>
+<p>North Wales, PA 19454</p>
+<p>Rev. B 9/2014</p>
+
+<footer><div class="wp-pagenavi">
+<span class="pages">Page 7 of 8</span>  <a href="//medlibrary.org/lib/rx/meds/epitol/" class="first">« First Page</a> <a href="//medlibrary.org/lib/rx/meds/epitol/page/6/">«</a> <span class="extend">…</span> <a href="//medlibrary.org/lib/rx/meds/epitol/page/4/" class="page smaller">4</a> <a href="//medlibrary.org/lib/rx/meds/epitol/page/5/" class="page smaller">5</a> <a href="//medlibrary.org/lib/rx/meds/epitol/page/6/" class="page smaller">6</a> <span class="current">7</span>  <a href="//medlibrary.org/lib/rx/meds/epitol/page/8/" class="page larger">8</a> <a href="//medlibrary.org/lib/rx/meds/epitol/page/8/">»</a> </div>
+<aside id="abre" style="display:none"><ins class="adsbygoogle" data-ad-client="ca-pub-3862246084592963"></ins>
+</aside><div class="reviewnote lightlinks">
+<p>All MedLibrary.org resources are included in as near-original form as possible, meaning that the information from the original provider has been rendered here with only typographical or stylistic modifications and not with any substantive alterations of content, meaning or intent.</p>
+<p>The URL of this page is:<br><a href="http://medlibrary.org/lib/rx/meds/epitol/page/7/" rel="bookmark">http://medlibrary.org/lib/rx/meds/epitol/page/7/</a></p>
+</div>
+</footer></article>8-----------------------------------------------------------<article><header><meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+<h1 itemprop="headline name">Epitol (Page 8 of 8)</h1>
+<div class="byline entry-meta lightlinks">By <span itemprop="author" class="author vcard"><abbr class="fn" title="Teva Pharmaceuticals USA Inc">Teva Pharmaceuticals USA Inc</abbr></span> | Last revised: 5 October 2015<meta itemprop="datePublished" content="2015-10-05">
+</div>
+<meta itemprop="image" content="http://medlibrary.org/lib/images-rx/epitol/00093009001.jpg"></header><meta itemprop="description" content="Page 8: Teva Pharmaceuticals USA Inc: Epitol (carbamazepine tablets USP) is indicated for use as an anticonvulsant drug. Evidence supporting efficacy of Epitol (carbamazepine tablets USP) as an anticonvulsant was derived from active drug-controlled studies that enrolled patients with...">
+<h2>Package/Label Display Panel<a id="i4i_Principal_display_panel_id_0ed3e5d4-9d88-425b-b28d-dd5b43a441b8"></a>
+</h2>
+<div><a id="id1299"></a></div>
+<div class="post_image" style="width:300px"> <div class="post_image_img"> <a href="img/57b6bfd3-c3a9-461d-8f4b-af6ff8e45a45-03-300x155.jpg"><img alt="Epitol® (Carbamazepine Tablets USP) 200 mg 100s Label " src="img/57b6bfd3-c3a9-461d-8f4b-af6ff8e45a45-03-300x155.jpg"></a> </div>
+<div class="post_image_attr"> <a href="img/57b6bfd3-c3a9-461d-8f4b-af6ff8e45a45-03-300x155.jpg">(click image for full-size original)</a> </div>
+</div>
+<h3>Epitol® (Carbamazepine Tablets USP) 200 mg 100s Label Text <a id="i4i_section_id_f7c7aa74-58c8-41c8-b8a0-0da282332406"></a><a id="section-16.1"></a>
+</h3>
+<aside id="ab1e" style="display:none"><ins class="adsbygoogle" data-ad-client="ca-pub-3862246084592963"></ins>
+</aside><p class="First "><strong>NDC</strong> 0093-<strong>0090</strong> -01</p>
+<p><strong>Epitol®</strong> <br><strong>(CARBAMAZEPINE</strong> <br><strong>Tablets USP)</strong> <br><strong>200 mg</strong> </p>
+<p>PHARMACIST: Dispense the accompanying<br>Medication Guide to each patient.</p>
+<p><strong>Rx only</strong> </p>
+<p><strong>100 TABLETS</strong> </p>
+<p><strong>TEVA</strong> </p>
 <table class="contentTablePetite" cellspacing="0" cellpadding="3" width="100%"><tbody>
 <tr>
-<td class="contentTableTitle"> <strong>A-HYDROCORT</strong> <br><span class="contentTableReg">hydrocortisone sodium succinate injection, powder, lyophilized, for solution</span> </td> </tr>
+<td class="contentTableTitle"> <strong>EPITOL</strong> <br><span class="contentTableReg">carbamazepine tablet</span> </td> </tr>
 <tr>
 <td> <table width="100%" cellpadding="5" cellspacing="0" class="formTablePetite">
 <tr>
 <td colspan="4" class="formHeadingTitle">Product Information</td> </tr>
 <tr class="formTableRowAlt">
-<td class="formLabel">Product Type</td> <td class="formItem">HUMAN PRESCRIPTION DRUG</td> <td class="formLabel">Item Code (Source)</td> <td class="formItem">NDC:0409-4856</td> </tr>
+<td class="formLabel">Product Type</td> <td class="formItem">HUMAN PRESCRIPTION DRUG</td> <td class="formLabel">Item Code (Source)</td> <td class="formItem">NDC:0093-0090</td> </tr>
 <tr class="formTableRow">
-<td width="30%" class="formLabel">Route of Administration</td> <td class="formItem">INTRAMUSCULAR, INTRAVENOUS</td> <td width="30%" class="formLabel">DEA Schedule</td> <td class="formItem"> </td> </tr>
+<td width="30%" class="formLabel">Route of Administration</td> <td class="formItem">ORAL</td> <td width="30%" class="formLabel">DEA Schedule</td> <td class="formItem"> </td> </tr>
 </table>
 </td> </tr>
 <tr>
@@ -486,7 +586,7 @@ tonicities are: 100 mg vial, .36 osmolar. (Isotonic saline = .28 osmolar.)</p>
 <td class="formTitle">Ingredient Name</td> <td class="formTitle">Basis of Strength</td> <td class="formTitle">Strength</td> </tr>
 <tr class="formTableRowAlt">
 <td class="formItem">
-<strong>HYDROCORTISONE SODIUM SUCCINATE</strong> (HYDROCORTISONE) </td> <td class="formItem">HYDROCORTISONE SODIUM SUCCINATE</td> <td class="formItem">100 mg  in 2 mL</td> </tr>
+<strong>CARBAMAZEPINE</strong> (CARBAMAZEPINE) </td> <td class="formItem">CARBAMAZEPINE</td> <td class="formItem">200 mg</td> </tr>
 </table>
 </td> </tr>
 <tr>
@@ -496,15 +596,35 @@ tonicities are: 100 mg vial, .36 osmolar. (Isotonic saline = .28 osmolar.)</p>
 <tr>
 <td class="formTitle">Ingredient Name</td> <td class="formTitle">Strength</td> </tr>
 <tr class="formTableRowAlt">
-<td class="formItem"> <strong>SODIUM PHOSPHATE, MONOBASIC ANHYDROUS</strong> </td> <td class="formItem">0.8 mg  in 2 mL</td> </tr>
+<td class="formItem"> <strong>SILICON DIOXIDE</strong> </td> <td class="formItem"> </td> </tr>
 <tr class="formTableRow">
-<td class="formItem"> <strong>SODIUM PHOSPHATE, DIBASIC ANHYDROUS</strong> </td> <td class="formItem">8.73 mg  in 2 mL</td> </tr>
+<td class="formItem"> <strong>CROSCARMELLOSE SODIUM</strong> </td> <td class="formItem"> </td> </tr>
 <tr class="formTableRowAlt">
-<td class="formItem"> <strong>SODIUM HYDROXIDE</strong> </td> <td class="formItem"> </td> </tr>
+<td class="formItem"> <strong>ETHYLCELLULOSE (100 MPA.S)</strong> </td> <td class="formItem"> </td> </tr>
+<tr class="formTableRow">
+<td class="formItem"> <strong>GLYCERIN</strong> </td> <td class="formItem"> </td> </tr>
+<tr class="formTableRowAlt">
+<td class="formItem"> <strong>LACTOSE MONOHYDRATE</strong> </td> <td class="formItem"> </td> </tr>
+<tr class="formTableRow">
+<td class="formItem"> <strong>MAGNESIUM STEARATE</strong> </td> <td class="formItem"> </td> </tr>
+<tr class="formTableRowAlt">
+<td class="formItem"> <strong>SODIUM STARCH GLYCOLATE TYPE A POTATO</strong> </td> <td class="formItem"> </td> </tr>
 </table>
 </td> </tr>
 <tr>
-<td></td> </tr>
+<td> <table width="100%" cellpadding="3" cellspacing="0" class="formTablePetite">
+<tr>
+<td colspan="4" class="formHeadingTitle">Product Characteristics</td> </tr>
+<tr class="formTableRowAlt">
+<td class="formLabel">Color</td> <td class="formItem">WHITE</td> <td class="formLabel">Score</td> <td class="formItem">2 pieces</td> </tr>
+<tr class="formTableRow">
+<td class="formLabel">Shape</td> <td class="formItem">ROUND</td> <td class="formLabel">Size</td> <td class="formItem">9mm</td> </tr>
+<tr class="formTableRowAlt">
+<td class="formLabel">Flavor</td> <td class="formItem"></td> <td class="formLabel">Imprint Code</td> <td class="formItem">EPITOL;93;93</td> </tr>
+<tr class="formTableRow">
+<td class="formLabel">Contains</td> <td class="formItem"> </td> </tr>
+</table>
+</td> </tr>
 <tr>
 <td> <table width="100%" cellpadding="3" cellspacing="0" class="formTablePetite">
 <tr>
@@ -512,17 +632,14 @@ tonicities are: 100 mg vial, .36 osmolar. (Isotonic saline = .28 osmolar.)</p>
 <tr>
 <td width="1" class="formTitle">#</td> <td class="formTitle">Item Code</td> <td class="formTitle">Package Description</td> <td class="formTitle">Multilevel Packaging</td> </tr>
 <tr class="formTableRowAlt">
-<td class="formItem"> <strong>1</strong> </td> <td class="formItem">NDC:0409-4856-05</td> <td class="formItem">10 VIAL, SINGLE-DOSE (10 VIAL)  in 1 CARTON</td> <td class="formItem">contains a VIAL, SINGLE-DOSE</td> </tr>
-<tr class="formTableRowAlt">
-<td class="formItem"> <strong>1</strong> </td> <td class="formItem"></td> <td class="formItem">2 mL in 1 VIAL, SINGLE-DOSE</td> <td class="formItem">This package is contained within the CARTON (0409-4856-05)</td> </tr>
-<tr class="formTableRow">
-<td class="formItem"> <strong>2</strong> </td> <td class="formItem">NDC:0409-4856-15</td> <td class="formItem">25 VIAL, SINGLE-DOSE (25 VIAL)  in 1 TRAY</td> <td class="formItem">contains a VIAL, SINGLE-DOSE</td> </tr>
-<tr class="formTableRow">
-<td class="formItem"> <strong>2</strong> </td> <td class="formItem"></td> <td class="formItem">2 mL in 1 VIAL, SINGLE-DOSE</td> <td class="formItem">This package is contained within the TRAY (0409-4856-15)</td> </tr>
+<td class="formItem"> <strong>1</strong> </td> <td class="formItem">NDC:0093-0090-01</td> <td class="formItem">100 TABLET in 1 BOTTLE</td> <td class="formItem">None</td> </tr>
 </table>
 </td> </tr>
 <tr>
-<td></td> </tr>
+<td> <div class="post_image" style="width:300px"> <div class="post_image_img"> <a href="img/00093009001-300x225.jpg"><img alt="Image of Product" src="img/00093009001-300x225.jpg"></a> </div>
+<div class="post_image_attr"> <a href="img/00093009001-300x225.jpg">(click image for full-size original)</a> </div>
+</div>
+</td> </tr>
 <tr>
 <td class="normalizer"> <table width="100%" cellpadding="3" cellspacing="0" class="formTableMorePetite">
 <tr>
@@ -530,23 +647,22 @@ tonicities are: 100 mg vial, .36 osmolar. (Isotonic saline = .28 osmolar.)</p>
 <tr>
 <td class="formTitle">Marketing Category</td> <td class="formTitle">Application Number or Monograph Citation</td> <td class="formTitle">Marketing Start Date</td> <td class="formTitle">Marketing End Date</td> </tr>
 <tr class="formTableRowAlt">
-<td class="formItem">ANDA</td> <td class="formItem">ANDA040666</td> <td class="formItem">05/12/2011</td> <td class="formItem"></td> </tr>
+<td class="formItem">ANDA</td> <td class="formItem">ANDA070541</td> <td class="formItem">09/30/1990</td> <td class="formItem"></td> </tr>
 </table>
 </td> </tr>
 </tbody></table>
 <table width="100%" cellpadding="3" cellspacing="0" class="formTableMorePetite"><tr>
 <td colspan="4" class="formHeadingReg">
-<span class="formHeadingTitle">Labeler — </span>Hospira, Inc.
-       (141588017)
+<span class="formHeadingTitle">Labeler — </span>Teva Pharmaceuticals USA Inc
+       (001627975)
     </td> </tr></table>
-<p><span class="EffectiveDate">Revised: 05/2011</span> <span class="DistributorName">Hospira, Inc.</span></p>
+<p><span class="EffectiveDate">Revised: 10/2015</span> <span class="DistributorName">Teva Pharmaceuticals USA Inc</span></p>
 
 <footer><div class="wp-pagenavi">
-<span class="pages">Page 3 of 3</span>  <a href="//medlibrary.org/lib/rx/meds/a-hydrocort/page/2/">«</a> <a href="//medlibrary.org/lib/rx/meds/a-hydrocort/" class="page smaller">1</a> <a href="//medlibrary.org/lib/rx/meds/a-hydrocort/page/2/" class="page smaller">2</a> <span class="current">3</span>  </div>
+<span class="pages">Page 8 of 8</span>  <a href="//medlibrary.org/lib/rx/meds/epitol/" class="first">« First Page</a> <a href="//medlibrary.org/lib/rx/meds/epitol/page/7/">«</a> <span class="extend">…</span> <a href="//medlibrary.org/lib/rx/meds/epitol/page/4/" class="page smaller">4</a> <a href="//medlibrary.org/lib/rx/meds/epitol/page/5/" class="page smaller">5</a> <a href="//medlibrary.org/lib/rx/meds/epitol/page/6/" class="page smaller">6</a> <a href="//medlibrary.org/lib/rx/meds/epitol/page/7/" class="page smaller">7</a> <span class="current">8</span>  </div>
 <aside id="abre" style="display:none"><ins class="adsbygoogle" data-ad-client="ca-pub-3862246084592963"></ins>
 </aside><div class="reviewnote lightlinks">
 <p>All MedLibrary.org resources are included in as near-original form as possible, meaning that the information from the original provider has been rendered here with only typographical or stylistic modifications and not with any substantive alterations of content, meaning or intent.</p>
-<p>The URL of this page is:<br><a href="http://medlibrary.org/lib/rx/meds/a-hydrocort/page/3/" rel="bookmark">http://medlibrary.org/lib/rx/meds/a-hydrocort/page/3/</a></p>
+<p>The URL of this page is:<br><a href="http://medlibrary.org/lib/rx/meds/epitol/page/8/" rel="bookmark">http://medlibrary.org/lib/rx/meds/epitol/page/8/</a></p>
 </div>
-</footer>
-4-----------------------------------------------------------
+</footer></article>
