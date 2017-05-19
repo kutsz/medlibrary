@@ -40,7 +40,7 @@ function getContent($NAME, $URL)
        //foreach ($doc->find('#content > article .post_image') as $img) { //??
  //foreach ($doc->find('#content .post_image img') as $img) { //?Ok
 
-   foreach ($doc->find('#content img') as $img) { //?Ok
+   foreach ($doc->find('#content img') as $img) { //Ok
         $img= pq($img);
 
 
@@ -118,7 +118,41 @@ getContent($drug_arr['drug_name'], $drug_arr['drug_reference']);
     $i++;
 }
 
+
+//////////////////////////////////
+/*
+#content > article > table.contentTablePetite > tbody > tr:nth-child(7) > td > div > div.post_image_img > a > img
+/*
+Недавно как раз и парсил картинки этой библиотекой и она очень хорошо справилась
+
+Для того, что бы сохранить конкретно картинку, то надо при помощи библиотеки найти ссылки на картинки, я искал на странице и помещал все найденные ссылки в массив, пример кода:
+$model_page_url = file_get_contents($page);  //Получаем всю страницу
+  $model_page = phpQuery::newDocument($model_page_url); //Создаём объект страницы библиотекой
+  $images_link = $model_page->find('img'); //Ищем все теги img
+  foreach ($images_link as $image_link) {
+    $images[] = pq($image_link)->attr('src'); //В цикле помещаем ссылку на картинку в массив
+  }
+
+
+Затем примерно так:
+foreach($images as $image){
+        $image_name = basename($image); //Определяем имя и расширение картинки
+        if(!file_exists('img/'.$image_name)){ //Проверяем нет ли такой картинки
+          file_put_contents('img/'.$image_name, file_get_contents($image)); //через file_get_contents($image) получаем картинку по ссылке и file_put_contents кладём её в нужную нам папку
+        }else{
+          continue;
+        }
+      }
+
+*/
+//-----------------
+
+  //UPDATE `table` SET `column` = CONCAT( 'чего-то спереди ', `column` )
+
+  //drug_html [id, drug_name, html_description, img_reference, local_img_reference]
+
 #content > article > div > div.post_image_img > a
 #content > article > div > div.post_image_img > a > img
 
 #content > article > div > div.post_image_attr > a
+*/
