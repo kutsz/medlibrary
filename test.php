@@ -15,7 +15,7 @@ function getContent($NAME, $URL)
             $url= $URL."page/{$i}/";
         }
 //$url = ($i==1) ? $URL : $URL."page/{$i}/";
-        // $file = file_get_contents($url) ?? false;
+      //$file = file_get_contents($url) ?? false;
         $file = file_get_contents($url);
 
 
@@ -87,40 +87,40 @@ function getContent($NAME, $URL)
 //unset($img);
   //$html = $html->html();
 
-        $fp = fopen('html_content.txt', 'a');//test
-      fwrite($fp, "$i".'-----------------------------------------------------------');
-        fwrite($fp, $html);
-        fclose($fp);
+      //   $fp = fopen('html_cont1.txt', 'a');//test
+      // fwrite($fp, "$i".'-----------------------------------------------------------');
+      //   fwrite($fp, $html);
+      //   fclose($fp);
 
         $html_content.=$html;
 
         $i++;
     }
 
-    $fp1 = fopen('html_content1.txt', 'a');//test
-    fwrite($fp1, $html_content);
-    fclose($fp1);
+    // $fp1 = fopen('html_content1.txt', 'a');//test
+    // fwrite($fp1, $html_content);
+    // fclose($fp1);
 }
 
 
 $link = open_database_connection();
 //$num =  maxId_new_medicals();
 //echo $num;
- $num = 1980;
+ $numTotal = 11;
 
-$i = 1980;
-while ($i <= $num) {
-    $drug_arr = getDrugReference($i);
+$count = 11;
+while ($count <= $numTotal) {
+    $drug_arr = getDrugReference($count);
 // var_dump($drug_arr);
 // echo $drug_arr['drug_name'].'<br>';
 // echo $drug_arr['drug_reference'].'<br><br>';
 getContent($drug_arr['drug_name'], $drug_arr['drug_reference']);
-    $i++;
+    $count++;
 }
 
 
 //////////////////////////////////
-/*
+
 #content > article > table.contentTablePetite > tbody > tr:nth-child(7) > td > div > div.post_image_img > a > img
 /*
 Недавно как раз и парсил картинки этой библиотекой и она очень хорошо справилась
@@ -155,4 +155,9 @@ foreach($images as $image){
 #content > article > div > div.post_image_img > a > img
 
 #content > article > div > div.post_image_attr > a
-*/
+
+#content > article
+
+
+
+#content > article > footer > div.wp-pagenavi

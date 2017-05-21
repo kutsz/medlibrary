@@ -69,16 +69,20 @@ function getContent($NAME, $URL)
 $link = open_database_connection();
 //$num =  maxId_new_medicals();
 //echo $num;
- $num = 10;
 
-$i = 3;
-while ($i <= $num) {
-    $drug_arr = getDrugReference($i);
+$count = 16;         // 11  21  ?? new_medicals
+
+$numTotal = 25;
+
+while ($count <= $numTotal) {
+   $drug_arr = getDrugReference($count);
 // var_dump($drug_arr);
 // echo $drug_arr['drug_name'].'<br>';
 // echo $drug_arr['drug_reference'].'<br><br>';
 getContent($drug_arr['drug_name'], $drug_arr['drug_reference']);
-    $i++;
+
+   $count++;
 }
+
 
 echo 'OK';
